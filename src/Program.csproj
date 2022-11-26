@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+    		<TargetFramework>net6.0</TargetFramework>
+  	</PropertyGroup>
+	<ItemGroup>
+		<Reference Include="KAPITypes">
+			<Name>KAPITypes</Name>
+			<HintPath>../lib/KAPITypes.dll</HintPath>
+		</Reference>
+
+		<Reference Include="System.Windows.Forms">
+			<Name>System.Windows.Forms</Name>
+			<HintPath>../lib/System.Windows.Forms.dll</HintPath>
+		</Reference>
+
+		<Reference Include="Kompas6API5">
+			<Name>Kompas6API5</Name>
+			<HintPath>../lib/Kompas6API5.dll</HintPath>
+		</Reference>
+
+		<Reference Include="Kompas6Constants3D">
+			<Name>Kompas6Constants3D</Name>
+			<HintPath>../lib/Kompas6Constants3D.dll</HintPath>
+		</Reference>
+
+		<Reference Include="Kompas6Constants">
+			<Name>Kompas6Constants</Name>
+			<HintPath>../lib/Kompas6Constants.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+
+</Project>
