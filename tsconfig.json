@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "outDir": "./src/renderer/dist",
+        "allowJs": true,
+        "module": "ES2022",
+        "target": "esnext",
+        "strict": true,
+        "moduleResolution": "node"
+    },
+    "include": ["./src/renderer"],
+    "exclude": [""]
+}
