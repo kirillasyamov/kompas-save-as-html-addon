@@ -1,5 +1,6 @@
 {
     "compilerOptions": {
+        "forceConsistentCasingInFileNames": true,
         "outDir": "./src/renderer/dist",
         "allowJs": true,
         "module": "ES2022",
