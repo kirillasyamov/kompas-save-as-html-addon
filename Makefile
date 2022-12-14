@@ -11,3 +11,5 @@ up:
 	node ./dist/crutchServer.js
 reg:
 	regasm kompasAddon.dll /tlb /codebase
+run:
+	dotnet run --project "c:\Users\kiril\Documents\kompas-save-as-html-addon\src\Program.csproj"
