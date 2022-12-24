@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1094px" preserveAspectRatio="none" style="width:639px;height:1094px;background:#FFFFFF;" version="1.1" viewBox="0 0 639 1094" width="639px" zoomAndPan="magnify"><defs/><g><!--MD5=[bd749b0dec774eb35da62473a029caa1]
+cluster kapp--><g id="cluster_kapp"><rect fill="#FFFFFF" height="238" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="331" x="302.5" y="850.1191"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="143" x="396.5" y="874.2373">Kompas-3D</text></g><!--MD5=[198e9ee9c7508fdcae31a320cfde0f5f]
+cluster save-as-html-addon--><g id="cluster_save-as-html-addon"><rect fill="#C1D6FB" height="95" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="267" x="334.5" y="953.1191"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="251" x="342.5" y="977.2373">save-as-html-addon</text></g><!--MD5=[8699c0c8e953ee53654a072cc875bfb4]
+cluster Browser--><g id="cluster_Browser"><rect fill="#FFFFFF" height="562" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="269" x="333" y="231.1191"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="104" x="415.5" y="255.2373">Browser</text></g><!--MD5=[edc0ffa9b55454e43e323fa7176ade77]
+cluster geometry tab--><g id="cluster_geometry tab"><rect fill="#C1D6FB" height="231" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="205" x="365" y="407.1191"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="166" x="384.5" y="431.2373">geometry tab</text></g><!--MD5=[7a46cff4f811cbbee7d728465a9967df]
+cluster email tab--><g id="cluster_email tab"><rect fill="#FFFFFF" height="91" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="140" x="397.5" y="662.1191"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="117" x="409" y="686.2373">email tab</text></g><!--MD5=[a3ccbbd9f1918c6c5f053b04cc6a51e7]
+cluster messenger tab--><g id="cluster_messenger tab"><rect fill="#FFFFFF" height="91" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="200" x="367.5" y="292.1191"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="184" x="375.5" y="316.2373">messenger tab</text></g><!--MD5=[d64883541e3d62e3241c4d12decf100d]
+cluster Application--><g id="cluster_Application"><rect fill="#FFFFFF" height="174" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="208" x="363.5" y="12.1191"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="140" x="397.5" y="36.2373">Application</text></g><g id="elem_Create Model"><ellipse cx="467.4388" cy="920.0069" fill="#FFFFFF" rx="69.9388" ry="16.3878" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="91" x="419.1491" y="924.2503">Create Model</text></g><g id="elem_Save as html"><ellipse cx="467.4388" cy="1015.0069" fill="#FFFFFF" rx="69.9388" ry="16.3878" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="91" x="419.1491" y="1019.2503">Save as html</text></g><g id="elem_s1"><ellipse cx="467.623" cy="532.2003" fill="#FFFFFF" rx="54.123" ry="15.0811" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="434.623" y="536.4878">Send file</text></g><g id="elem_com"><ellipse cx="467.7046" cy="467.2705" fill="#FFFFFF" rx="63.7046" ry="15.1514" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="73" x="428.2046" y="471.5581">Add notes</text></g><g id="elem_work"><ellipse cx="467.6263" cy="602.3444" fill="#FFFFFF" rx="86.6263" ry="19.7253" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="132" x="401.6263" y="605.9123">Rotate, zoom, etc.</text></g><g id="elem_s2"><ellipse cx="467.623" cy="722.2003" fill="#FFFFFF" rx="54.123" ry="15.0811" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="434.623" y="726.4878">Send file</text></g><g id="elem_s5"><ellipse cx="467.623" cy="352.2003" fill="#FFFFFF" rx="54.123" ry="15.0811" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="434.623" y="356.4878">Send file</text></g><g id="elem_s3"><ellipse cx="467.5746" cy="104.2127" fill="#FFFFFF" rx="80.0746" ry="39.0935" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="437.5746" y="90.7659">Send file</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="97" x="419.0746" y="107.7805">in a message,</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="74" x="430.5746" y="124.7952">in an email</text></g><!--MD5=[a718003c1f5b4500bb388f6c1a472273]
+entity one--><g id="elem_one"><ellipse cx="84" cy="751.6191" fill="#FFFFFF" rx="16" ry="16" style="stroke:#000000;stroke-width:1.5;"/><path d="M84,771.6191 C88,771.6191 91,771.6191 95,767.6191 C103,767.6191 111,775.6191 111,783.6191 L111,787.6191 C111,791.6191 107,795.6191 103,795.6191 L65,795.6191 C61,795.6191 57,791.6191 57,787.6191 L57,783.6191 C57,775.6191 65,767.6191 73,767.6191 C77,771.6191 80,771.6191 84,771.6191 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="132" x="18" y="811.1943">Worker or student</text></g><!--MD5=[807decba0a354aa2287ec14ffad6d16d]
+entity two--><g id="elem_two"><ellipse cx="84" cy="255.6191" fill="#FFFFFF" rx="16" ry="16" style="stroke:#000000;stroke-width:1.5;"/><path d="M84,275.6191 C88,275.6191 91,275.6191 95,271.6191 C103,271.6191 111,279.6191 111,287.6191 L111,291.6191 C111,295.6191 107,299.6191 103,299.6191 L65,299.6191 C61,299.6191 57,295.6191 57,291.6191 L57,287.6191 C57,279.6191 65,271.6191 73,271.6191 C77,275.6191 80,275.6191 84,275.6191 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="146" x="11" y="315.1943">Customer or teacher</text></g><!--MD5=[5a19d15ba8bdc531aec9ead665f41ff0]
+link one to Create Model--><g id="link_one_Create Model"><path d="M138.27,814.1891 C161.47,830.0791 189.58,847.3291 217,859.1191 C279.48,885.9691 356.06,902.4791 407.77,911.4391 " fill="none" id="one-Create Model" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[e4d7633c255135fe0bd0ddb7d0cbd8c1]
+link one to Save as html--><g id="link_one_Save as html"><path d="M108.72,814.5491 C141.47,866.2491 205.77,953.9991 286.5,995.1191 C320.96,1012.6691 363.86,1017.9791 399.13,1018.7491 " fill="none" id="one-Save as html" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[da9f90f6d6c7f7df26a249c68bcffeeb]
+link one to s1--><g id="link_one_s1"><path d="M150.17,765.3191 C194.17,755.6991 249.41,735.6591 279,694.1191 C295.66,670.7291 267.48,586.6391 286.5,565.1191 C318.58,528.8191 376.32,524.0491 417.76,526.1391 " fill="none" id="one-s1" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[faaf6652f1fee72f34f550d680fd8624]
+link two to s1--><g id="link_two_s1"><path d="M157.41,288.5091 C200.11,298.6791 251.1,318.7291 279,358.1191 C297.26,383.9091 265.57,476.4391 286.5,500.1191 C318.66,536.5091 376.67,540.8291 418.15,538.4191 " fill="none" id="two-s1" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[96f2f358e63cb94bf001d34c1e97ba2c]
+link one to com--><g id="link_one_com"><path d="M150.28,742.3091 C194.93,716.7591 250.94,676.3591 279,623.1191 C291.77,598.8991 268.34,520.6091 286.5,500.1191 C316.53,466.2391 368.9,459.8491 409.44,460.8491 " fill="none" id="one-com" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[ae328cb671d55355c03d79a0f94da53e]
+link two to com--><g id="link_two_com"><path d="M157.32,260.2791 C198.37,254.7891 247.64,256.7391 279,287.1191 C294.37,302.0091 274.31,365.5291 286.5,383.1191 C316.36,426.1991 374.22,447.7391 416.3,458.1191 " fill="none" id="two-com" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[1c11f920b2abb3b3944e8de672fe8aa9]
+link one to work--><g id="link_one_work"><path d="M150.04,790.6791 C192.26,797.2191 245.46,796.8791 279,765.1191 C291,753.7591 277.08,704.6991 286.5,691.1191 C314.21,651.1591 365.17,628.3191 405.81,615.8091 " fill="none" id="one-work" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[eecdfc3751dd457e3fb92dd9428f7e13]
+link two to work--><g id="link_two_work"><path d="M157.11,313.7891 C200.57,339.4491 252.48,378.4491 279,429.1191 C286.02,442.5291 276.62,553.6591 286.5,565.1191 C309.94,592.2991 347.54,602.7391 382.33,605.8991 " fill="none" id="two-work" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[3809ca2a1b31eb5012e10d339003fbea]
+link one to s2--><g id="link_one_s2"><path d="M135.07,814.2691 C178.14,843.7091 239.4,872.7191 279,836.1191 C294.55,821.7491 271.72,756.2891 286.5,741.1191 C321.58,705.0991 383.12,706.6791 424.35,712.9391 " fill="none" id="one-s2" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[c9a87a75d2e8ced7bd87cb19c6fe0fb8]
+link two to s2--><g id="link_two_s2"><path d="M98.09,318.2391 C123.6,390.8491 186.4,545.1291 286.5,638.1191 C327.43,676.1391 388.64,699.6791 428.07,711.8391 " fill="none" id="two-s2" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[5354c9a5f5c99ef11ab63e5c36d7e0bd]
+link one to s5--><g id="link_one_s5"><path d="M109.1,734.0591 C135.81,689.6391 180.1,615.8291 218,552.1191 C248.61,500.6591 242.16,476.3591 286.5,436.1191 C327.87,398.5691 388.96,374.9091 428.25,362.5891 " fill="none" id="one-s5" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[6309831a53b2240f73983e67f27cacf6]
+link two to s5--><g id="link_two_s5"><path d="M147.08,237.9791 C185.17,218.3891 234.94,201.8191 279,216.1191 C353.97,240.4491 424.05,307.2391 452.78,337.2191 " fill="none" id="two-s5" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[7e5c6d3c7a29dc140c97e44804521390]
+link one to s3--><g id="link_one_s3"><path d="M85.17,734.0991 C87.94,623.1491 111.61,309.1191 286.5,147.1191 C313.61,122.0091 352.68,110.7791 387.5,106.0291 " fill="none" id="one-s3" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[996a753b0604f49e49fcc659cf1add4c]
+link two to s3--><g id="link_two_s3"><path d="M108.55,237.7791 C139.98,188.4391 200.75,107.3791 278,74.1191 C318.94,56.4991 368.89,65.6691 407.09,78.3491 " fill="none" id="two-s3" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[979fe6d13d1d452605644fa0682fa699]
+link Browser to Application--><!--MD5=[3647f31422ad5fa480949a2cdf3b960e]
+link Application to kapp--><!--MD5=[06a8f53e7e033d01397ec3651ccc2bad]
+link kapp to Browser--><!--MD5=[795fb2aff1d74b9770fd59afb092ec33]
+@startuml idea.usecase
+!theme plain
+left to right direction 
+skinparam handwritten false
+skinparam actorStyle awesome 
+
+
+skinparam packageStyle rectangle
+
+actor one as "Worker or student"
+actor two as "Customer or teacher"
+
+rectangle Kompas-3D as kapp {
+    one - - - - (Create Model)
+    rectangle save-as-html-addon #c1d6fb {
+        one - - - - (Save as html)
+    }
+}
+rectangle Browser {
+    rectangle "geometry tab" #c1d6fb {
+        usecase s1 as "Send file"
+        usecase com as "Add notes"
+        usecase work as "Rotate, zoom, etc."
+        one - - - - s1
+        two - - - - s1
+        one - - - - com
+        two - - - - com
+        one - - - - work
+        two - - - - work
+    }
+    rectangle "email tab" {
+        usecase "Send file" as s2
+        one - - - - (s2)
+        two - - - - (s2)
+    }
+    rectangle "messenger tab" {
+        usecase "Send file" as s5
+        one - - - - (s5)
+        two - - - - (s5)
+    }
+}
+
+rectangle Application {
+    usecase s3 as "Send file
+    in a message,
+    in an email"
+    one - - - - (s3)
+    two - - - - (s3)
+}
+
+Browser -[hidden]down- Application
+
+kapp -[hidden]left- Application
+kapp -[hidden]down- Browser 
+
+@enduml
+
+@startuml idea.usecase
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+left to right direction 
+skinparam handwritten false
+skinparam actorStyle awesome 
+
+
+skinparam packageStyle rectangle
+
+actor one as "Worker or student"
+actor two as "Customer or teacher"
+
+rectangle Kompas-3D as kapp {
+    one - - - - (Create Model)
+    rectangle save-as-html-addon #c1d6fb {
+        one - - - - (Save as html)
+    }
+}
+rectangle Browser {
+    rectangle "geometry tab" #c1d6fb {
+        usecase s1 as "Send file"
+        usecase com as "Add notes"
+        usecase work as "Rotate, zoom, etc."
+        one - - - - s1
+        two - - - - s1
+        one - - - - com
+        two - - - - com
+        one - - - - work
+        two - - - - work
+    }
+    rectangle "email tab" {
+        usecase "Send file" as s2
+        one - - - - (s2)
+        two - - - - (s2)
+    }
+    rectangle "messenger tab" {
+        usecase "Send file" as s5
+        one - - - - (s5)
+        two - - - - (s5)
+    }
+}
+
+rectangle Application {
+    usecase s3 as "Send file
+    in a message,
+    in an email"
+    one - - - - (s3)
+    two - - - - (s3)
+}
+
+Browser -[hidden]down- Application
+
+kapp -[hidden]left- Application
+kapp -[hidden]down- Browser 
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 23:01:30 GMT+06:00 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>

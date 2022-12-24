@@ -1,0 +1,23 @@
+@startuml idea.component.file
+!theme plain
+
+skinparam BackgroundColor transparent
+skinparam componentStyle rectangle
+
+component Browser {
+   component HTML #SkyBlue
+   component JavaScript #SkyBlue
+   component "GLSL ES" #SkyBlue
+   component WebGL #GreenYellow
+   component "OpenGL ES" as a #GreenYellow
+   component "SpiderMonkey(Firefox)\nV8(Chrome and etc)\nCarakan (Opera)\nChakra(Microsoft Edge)" as x #GreenYellow
+
+   [HTML] --[hidden]right-- [JavaScript]
+   [GLSL ES] --[hidden]right-- [JavaScript]
+
+   [WebGL] -[hidden]up- [GLSL ES]
+   a -[hidden]up- [GLSL ES]
+   [WebGL] -[hidden]left- x
+}
+
+@enduml

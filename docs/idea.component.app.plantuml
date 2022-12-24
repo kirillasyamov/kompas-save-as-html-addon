@@ -1,0 +1,54 @@
+@startuml idea.component.app
+
+!theme plain
+
+skinparam componentStyle rectangle
+
+skinparam component {
+BorderColor black
+BackgroundColor #LightGreen
+}
+
+interface IKompasKonverter as ikk
+component "Kompas-3D App" as app
+component "save-as-html-addon" as dll
+
+component "pattern.html" as p
+component "geometry data" as gd
+component e as "email 
+handler"
+component n as "note 
+handler"
+component "3D Scene" as c
+component renderer as r
+component Browser {
+component "geometry.html" as g #E7D7FA;line.dashed
+
+}
+
+app -up- ikk
+dll -down-( ikk
+
+
+p -left-> dll
+r -left-> p
+n -down-> p
+
+p -down-> g
+gd -up-> g
+
+e -[hidden]left- g
+e --> p
+
+interface api as "REST API
+service API"
+component "EmailServer" as email
+g -( api
+api -- email
+
+
+app -down-> c
+c -left-> gd
+
+
+@enduml

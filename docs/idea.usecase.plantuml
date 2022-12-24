@@ -1,0 +1,56 @@
+@startuml idea.usecase
+!theme plain
+left to right direction 
+skinparam handwritten false
+skinparam actorStyle awesome 
+
+
+skinparam packageStyle rectangle
+
+actor one as "Worker or student"
+actor two as "Customer or teacher"
+
+rectangle Kompas-3D as kapp {
+    one ---- (Create Model)
+    rectangle save-as-html-addon #c1d6fb {
+        one ---- (Save as html)
+    }
+}
+rectangle Browser {
+    rectangle "geometry tab" #c1d6fb {
+        usecase s1 as "Send file"
+        usecase com as "Add notes"
+        usecase work as "Rotate, zoom, etc."
+        one ---- s1
+        two ---- s1
+        one ---- com
+        two ---- com
+        one ---- work
+        two ---- work
+    }
+    rectangle "email tab" {
+        usecase "Send file" as s2
+        one ---- (s2)
+        two ---- (s2)
+    }
+    rectangle "messenger tab" {
+        usecase "Send file" as s5
+        one ---- (s5)
+        two ---- (s5)
+    }
+}
+
+rectangle Application {
+    usecase s3 as "Send file
+    in a message,
+    in an email"
+    one ---- (s3)
+    two ---- (s3)
+}
+
+Browser -[hidden]down- Application
+
+kapp -[hidden]left- Application
+kapp -[hidden]down- Browser 
+
+@enduml
