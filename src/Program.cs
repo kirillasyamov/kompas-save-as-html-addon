@@ -78,6 +78,48 @@ namespace KompasClassLibrary
             subKey.Close();
         }
 		#endregion
+
+        protected static void Main(string[] arguments)
+        {
+            Console.Write("\n\n\n\nScript is running:\n");
+            kompas = (KompasObject)Marshal.GetActiveObject("KOMPAS.Application.5");
+            if (kompas == null) 
+            {
+                Console.WriteLine("App is not running");
+                return;
+            }
+            Console.WriteLine("App has been connected");
+            doc = (ksDocument3D)kompas.ActiveDocument3D();
+            if (doc == null)
+            {
+                Console.WriteLine("Scene was not created");
+                return;
+            }
+            Console.WriteLine("Scene is connected successfully");
+            additionFormat = (ksAdditionFormatParam)doc.AdditionFormatParam();
+            try 
+            {
+                DocSaver.save(doc, additionFormat, hardcodedPath, hardcodedFileName);
+                Console.WriteLine("Geometry data is saved successfully");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("Geometry data was not saved");
+                Console.WriteLine(e.Message);
+                return;
+            }
+            try 
+            {
+                HtmlBuilder.build(hardcodedPath, hardcodedFileName);
+                Console.WriteLine("HTML file is created successfully");
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine("HTML file was not created");
+                Console.WriteLine(e.Message);
+                return;
+            }
+        }
     }
 
     public static class HtmlBuilder
