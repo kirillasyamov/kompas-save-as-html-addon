@@ -82,7 +82,7 @@ namespace KompasClassLibrary
         protected static void Main(string[] arguments)
         {
             Console.Write("\n\n\n\nScript is running:\n");
-            kompas = (KompasObject)Marshal.GetActiveObject("KOMPAS.Application.5");
+            kompas = (KompasObject)ExMarshal.GetActiveObject("KOMPAS.Application.5");
             if (kompas == null) 
             {
                 Console.WriteLine("App is not running");
@@ -157,5 +157,42 @@ namespace KompasClassLibrary
                 MessageBox.Show(ex.ToString());
             }
         }
+    }
+
+    public static class ExMarshal
+    {
+        internal const String OLEAUT32 = "oleaut32.dll";
+        internal const String OLE32 = "ole32.dll";
+        [System.Security.SecurityCritical]  
+        public static Object GetActiveObject(String progID)
+        {
+            Object obj = null;
+            Guid clsid;
+            try
+            {
+                CLSIDFromProgIDEx(progID, out clsid);
+            }
+            catch (Exception)
+            {
+                CLSIDFromProgID(progID, out clsid);
+            }
+            GetActiveObject(ref clsid, IntPtr.Zero, out obj);
+            return obj;
+        }
+        [DllImport(OLE32, PreserveSig = false)]
+        [ResourceExposure(ResourceScope.None)]
+        [SuppressUnmanagedCodeSecurity]
+        [System.Security.SecurityCritical] 
+        private static extern void CLSIDFromProgIDEx([MarshalAs(UnmanagedType.LPWStr)] String progId, out Guid clsid);
+        [DllImport(OLE32, PreserveSig = false)]
+        [ResourceExposure(ResourceScope.None)]
+        [SuppressUnmanagedCodeSecurity]
+        [System.Security.SecurityCritical] 
+        private static extern void CLSIDFromProgID([MarshalAs(UnmanagedType.LPWStr)] String progId, out Guid clsid);
+        [DllImport(OLEAUT32, PreserveSig = false)]
+        [ResourceExposure(ResourceScope.None)]
+        [SuppressUnmanagedCodeSecurity]
+        [System.Security.SecurityCritical] 
+        private static extern void GetActiveObject(ref Guid rclsid, IntPtr reserved, [MarshalAs(UnmanagedType.Interface)] out Object ppunk);
     }
 }
