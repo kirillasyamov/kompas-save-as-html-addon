@@ -1,0 +1,55 @@
+@startuml idea.sequence.comment
+!theme plain
+
+participant client
+
+box document
+participant "Array<SVG>" as svg 
+participant this 
+participant "note\nhandler" as handler #LightBlue
+participant renderer #LightBlue
+participant "bottom\ncanvas" as c1 #LightGreen
+participant "upper\ncanvas" as c2 #LightGreen
+end box
+
+activate renderer
+activate this
+activate svg
+activate c1
+activate c2
+activate handler
+participant screen
+
+
+this -> renderer : addEventListener("mousemove")
+this -> handler : addEventListener("mousemove")
+====
+client -> this : rotate model
+renderer -> c1 : render(position)
+c1 -> screen
+
+handler -> svg : find(e => e.position == position)
+activate svg
+svg -> handler : element || null
+deactivate svg
+activate handler
+handler -> c2 : if (element) appear(element)
+deactivate handler
+c2 -> screen
+====
+client -> this : draw note
+this -> handler : draw(parameters)
+handler -> c2 : update()
+c2 -> screen
+
+client -> this : apply
+this -> handler : apply()
+activate handler
+handler -> svg : push({svg: document.appendChild(canvasContext.getSVG()), position})
+deactivate handler
+
+====
+client -> this : save
+this --> client : XMLSerializer.serializeToString()
+
+@enduml

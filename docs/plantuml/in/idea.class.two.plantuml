@@ -1,0 +1,82 @@
+@startuml idea.class.parttwo
+
+!theme plain
+allowmixing
+
+package "<i> exe </i>" as exe {
+    KompasObject *-- ksDocument3D
+
+    package "<i> dll </i>" #e5f6f4 {
+
+        package "<i> csharp </i>" {
+            Program <-left- Document3DHandler
+            Program <-down- HtmlBuilder
+            
+            Program o-- KompasObject
+            Program o-- ksDocument3D 
+            IKompasConverter <|.down. Program
+        }
+
+        package "<i> restext </i>" {
+            note left of exe 
+                <i><size:16>The description of the web</size></i>
+                <i><size:16>application classes presented</size></i>
+                <i><size:16>earlier. This part of the system </size></i>
+                <i><size:16>includes the implementation of</size></i>
+                <i><size:16>graphics rendering, interaction </size></i>
+                <i><size:16>with a email api, adding text and</size></i>
+                <i><size:16>graphic comments to html files</size></i>
+            end note
+        }
+    }
+}
+
+
+class ksDocument3D {
+    + **long** drawMode
+    ...
+
+    + **long** ksGetObjParam (**long** reference, **LPDISPATCH** param, **long** paramType)
+    + **bool** SaveAsToAdditionFormat (**BSTR** fileName, **LPDISPATCH** additionPar)
+    {method} ...
+}
+class KompasObject {
+    + **LPDISPATCH** ActiveDocument3D
+    + **LPDISPATCH** ActiveDocument2D
+    ...
+    + **long** ksAttachKompasLibrary(**BSTR** libName)
+    + **long** ksDetachKompasLibrary (**long** libId)
+    + **long** ksExecuteKompasLibraryCommand (**long** libId, **long** command)
+    + **long** ksDrawKompasDocument (**long** HWindow, **BSTR** docFileName)
+    {method} ...
+}
+
+
+interface IKompasConverter {
+    + **boolean** CanUnloadLibrary
+    + **short[]** CIonverterParameters 
+    + GetFilter(**long** docType, **boolean** saveAs, **long** command)
+    + **boolean** Convert()
+    + **string[]** VIisualEditConvertParam
+}
+class Program { 
+    # KompasObject application
+    # ksDocument3D document
+    ...
+    + {static} **void** RegisterKompasLib(**Type** t)
+    + {static} **void** UnregisterKompasLib(**Type** t)
+    ...<color:#DDDDDD>()</color>
+}
+class HtmlBuilder {
+    # **string** htmlPattern
+    + {static} **boolean** build(**string** geometryData, **string** path, **string** fileName)
+}
+class Document3DHandler {
+    + {static} **string** getGeometryData(...)
+    + {static} **ksDocument2D** get2dView(...)
+}
+
+
+
+
+@enduml

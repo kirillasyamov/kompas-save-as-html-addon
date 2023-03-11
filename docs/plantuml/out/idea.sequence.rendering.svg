@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="281px" preserveAspectRatio="none" style="width:1211px;height:281px;background:#FFFFFF;" version="1.1" viewBox="0 0 1211 281" width="1211px" zoomAndPan="magnify"><defs/><g><rect fill="#FFFFFF" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="44.5" y="64.0293"/><rect fill="#90EE90" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="126.5" y="64.0293"/><rect fill="#FFFFFF" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="235" y="64.0293"/><rect fill="#F08080" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="351.5" y="64.0293"/><rect fill="#FFFFFF" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="452.5" y="64.0293"/><rect fill="#FFFFFF" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="576" y="64.0293"/><rect fill="#F08080" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="699.5" y="64.0293"/><rect fill="#FFFFFF" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="796.5" y="64.0293"/><rect fill="#FFFFFF" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="890" y="64.0293"/><rect fill="#FFFFFF" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="996" y="64.0293"/><rect fill="#90EE90" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="1086.5" y="64.0293"/><rect fill="#FFFFFF" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="1169" y="64.0293"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="49" x2="49" y1="54.0293" y2="228.0293"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="131" x2="131" y1="54.0293" y2="228.0293"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="240" x2="240" y1="54.0293" y2="228.0293"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="356" x2="356" y1="54.0293" y2="228.0293"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="457" x2="457" y1="54.0293" y2="228.0293"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="581" x2="581" y1="54.0293" y2="228.0293"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="704" x2="704" y1="54.0293" y2="228.0293"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="801" x2="801" y1="54.0293" y2="228.0293"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="895" x2="895" y1="54.0293" y2="228.0293"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="1001" x2="1001" y1="54.0293" y2="228.0293"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="1091" x2="1091" y1="54.0293" y2="228.0293"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="1174" x2="1174" y1="54.0293" y2="228.0293"/><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="59" x="20" y="22.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="45" x="27" y="43.0898">parser</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="59" x="20" y="227.0293"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="45" x="27" y="248.1045">parser</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="45" x="109" y="22.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="31" x="116" y="43.0898">VBO</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="45" x="109" y="227.0293"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="31" x="116" y="248.1045">VBO</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="112" x="184" y="22.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="98" x="191" y="43.0898">Preprocessing</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="112" x="184" y="227.0293"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="98" x="191" y="248.1045">Preprocessing</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="61" x="326" y="22.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="47" x="333" y="43.0898">Vertex</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="61" x="326" y="227.0293"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="47" x="333" y="248.1045">Vertex</text><rect fill="#FFFFFF" height="48.0293" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="81" x="417" y="5"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="58" x="428.5" y="26.0752">Primitive</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="67" x="424" y="43.0898">Assembly</text><rect fill="#FFFFFF" height="48.0293" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="81" x="417" y="227.0293"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="58" x="428.5" y="248.1045">Primitive</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="67" x="424" y="265.1191">Assembly</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="106" x="528" y="22.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="92" x="535" y="43.0898">Rasterization</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="106" x="528" y="227.0293"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="92" x="535" y="248.1045">Rasterization</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="81" x="664" y="22.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="67" x="671" y="43.0898">Fragment</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="81" x="664" y="227.0293"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="67" x="671" y="248.1045">Fragment</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="53" x="775" y="22.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="39" x="782" y="43.0898">Tests</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="53" x="775" y="227.0293"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="39" x="782" y="248.1045">Tests</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="74" x="858" y="22.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="865" y="43.0898">Blending</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="74" x="858" y="227.0293"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="865" y="248.1045">Blending</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="78" x="962" y="22.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="64" x="969" y="43.0898">Dithering</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="78" x="962" y="227.0293"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="64" x="969" y="248.1045">Dithering</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="43" x="1070" y="22.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="29" x="1077" y="43.0898">FBO</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="43" x="1070" y="227.0293"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="29" x="1077" y="248.1045">FBO</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="62" x="1143" y="22.0146"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="48" x="1150" y="43.0898">canvas</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="62" x="1143" y="227.0293"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="48" x="1150" y="248.1045">canvas</text><rect fill="#FFFFFF" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="44.5" y="64.0293"/><rect fill="#90EE90" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="126.5" y="64.0293"/><rect fill="#FFFFFF" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="235" y="64.0293"/><rect fill="#F08080" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="351.5" y="64.0293"/><rect fill="#FFFFFF" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="452.5" y="64.0293"/><rect fill="#FFFFFF" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="576" y="64.0293"/><rect fill="#F08080" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="699.5" y="64.0293"/><rect fill="#FFFFFF" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="796.5" y="64.0293"/><rect fill="#FFFFFF" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="890" y="64.0293"/><rect fill="#FFFFFF" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="996" y="64.0293"/><rect fill="#90EE90" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="1086.5" y="64.0293"/><rect fill="#FFFFFF" height="155" style="stroke:#000000;stroke-width:1.0;" width="10" x="1169" y="64.0293"/><polygon fill="#000000" points="114.5,66.0293,124.5,70.0293,114.5,74.0293,118.5,70.0293" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="54.5" x2="120.5" y1="70.0293" y2="70.0293"/><polygon fill="#000000" points="223,80.0293,233,84.0293,223,88.0293,227,84.0293" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="136.5" x2="229" y1="84.0293" y2="84.0293"/><polygon fill="#000000" points="339.5,94.0293,349.5,98.0293,339.5,102.0293,343.5,98.0293" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="245" x2="345.5" y1="98.0293" y2="98.0293"/><polygon fill="#000000" points="440.5,108.0293,450.5,112.0293,440.5,116.0293,444.5,112.0293" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="361.5" x2="446.5" y1="112.0293" y2="112.0293"/><polygon fill="#000000" points="564,122.0293,574,126.0293,564,130.0293,568,126.0293" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="462.5" x2="570" y1="126.0293" y2="126.0293"/><polygon fill="#000000" points="687.5,136.0293,697.5,140.0293,687.5,144.0293,691.5,140.0293" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="586" x2="693.5" y1="140.0293" y2="140.0293"/><polygon fill="#000000" points="784.5,150.0293,794.5,154.0293,784.5,158.0293,788.5,154.0293" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="709.5" x2="790.5" y1="154.0293" y2="154.0293"/><polygon fill="#000000" points="878,164.0293,888,168.0293,878,172.0293,882,168.0293" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="806.5" x2="884" y1="168.0293" y2="168.0293"/><polygon fill="#000000" points="984,178.0293,994,182.0293,984,186.0293,988,182.0293" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="900" x2="990" y1="182.0293" y2="182.0293"/><polygon fill="#000000" points="1074.5,192.0293,1084.5,196.0293,1074.5,200.0293,1078.5,196.0293" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="1006" x2="1080.5" y1="196.0293" y2="196.0293"/><polygon fill="#000000" points="1157,206.0293,1167,210.0293,1157,214.0293,1161,210.0293" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="1096.5" x2="1163" y1="210.0293" y2="210.0293"/><!--MD5=[60d5c8b5a748b939f2f67880a901ad32]
+@startuml idea.sequence.rendering
+!theme plain
+
+activate parser
+activate VBO #LightGreen
+activate Preprocessing
+activate Vertex #LightCoral
+activate "Primitive\nAssembly"
+activate Rasterization
+activate Fragment #LightCoral
+activate Tests
+activate Blending
+activate Dithering
+activate FBO #LightGreen
+activate canvas
+
+parser -> VBO 
+VBO -> Preprocessing
+Preprocessing -> Vertex
+Vertex -> "Primitive\nAssembly"
+"Primitive\nAssembly" -> Rasterization
+Rasterization -> Fragment
+Fragment -> Tests
+Tests -> Blending
+Blending -> Dithering
+Dithering -> FBO
+FBO -> canvas
+
+@enduml
+
+@startuml idea.sequence.rendering
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+
+activate parser
+activate VBO #LightGreen
+activate Preprocessing
+activate Vertex #LightCoral
+activate "Primitive\nAssembly"
+activate Rasterization
+activate Fragment #LightCoral
+activate Tests
+activate Blending
+activate Dithering
+activate FBO #LightGreen
+activate canvas
+
+parser -> VBO 
+VBO -> Preprocessing
+Preprocessing -> Vertex
+Vertex -> "Primitive\nAssembly"
+"Primitive\nAssembly" -> Rasterization
+Rasterization -> Fragment
+Fragment -> Tests
+Tests -> Blending
+Blending -> Dithering
+Dithering -> FBO
+FBO -> canvas
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 23:01:30 GMT+06:00 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>

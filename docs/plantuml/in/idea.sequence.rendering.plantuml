@@ -1,0 +1,29 @@
+@startuml idea.sequence.rendering
+!theme plain
+
+activate parser
+activate VBO #LightGreen
+activate Preprocessing
+activate Vertex #LightCoral
+activate "Primitive\nAssembly"
+activate Rasterization
+activate Fragment #LightCoral
+activate Tests
+activate Blending
+activate Dithering
+activate FBO #LightGreen
+activate canvas
+
+parser -> VBO 
+VBO -> Preprocessing
+Preprocessing -> Vertex
+Vertex -> "Primitive\nAssembly"
+"Primitive\nAssembly" -> Rasterization
+Rasterization -> Fragment
+Fragment -> Tests
+Tests -> Blending
+Blending -> Dithering
+Dithering -> FBO
+FBO -> canvas
+
+@enduml

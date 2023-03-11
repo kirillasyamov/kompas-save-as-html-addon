@@ -1,0 +1,33 @@
+@startuml idea.sequence.email
+!theme plain
+
+participant "Recipient" as two 
+participant "Sender" as one 
+
+activate Window #9DA1AB
+activate API #9DA1AB
+participant Server
+
+one -> Window : message
+one -> Window : recipient's address
+====
+
+one -> Window : login
+activate Window #LightGray
+Window -> API
+one -> Window : password
+deactivate Window 
+API -> Server 
+activate Server #LightGray
+Server --> one : response 
+deactivate Server
+====
+one -> Window : request
+Window -> API
+API -> Server
+activate Server #LightGray
+Server --> one : response
+Server --> two : email
+deactivate Server
+
+@enduml

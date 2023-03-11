@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="443px" preserveAspectRatio="none" style="width:525px;height:443px;background:#FFFFFF;" version="1.1" viewBox="0 0 525 443" width="525px" zoomAndPan="magnify"><defs/><g><rect fill="#9DA1AB" height="351.3945" style="stroke:#000000;stroke-width:1.0;" width="10" x="306" y="47.0146"/><rect fill="#D3D3D3" height="43.7993" style="stroke:#000000;stroke-width:1.0;" width="10" x="311" y="156.4126"/><rect fill="#9DA1AB" height="351.3945" style="stroke:#000000;stroke-width:1.0;" width="10" x="389.5" y="47.0146"/><rect fill="#D3D3D3" height="29.7993" style="stroke:#000000;stroke-width:1.0;" width="10" x="468" y="214.2119"/><rect fill="#D3D3D3" height="59.5986" style="stroke:#000000;stroke-width:1.0;" width="10" x="468" y="329.8105"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="58" x2="58" y1="37.0146" y2="407.4092"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="159" x2="159" y1="37.0146" y2="407.4092"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="311" x2="311" y1="37.0146" y2="407.4092"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="394" x2="394" y1="37.0146" y2="407.4092"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:5.0,5.0;" x1="473" x2="473" y1="37.0146" y2="407.4092"/><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="77" x="20" y="5"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="63" x="27" y="26.0752">Recipient</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="77" x="20" y="406.4092"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="63" x="27" y="427.4844">Recipient</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="64" x="127" y="5"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="50" x="134" y="26.0752">Sender</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="64" x="127" y="406.4092"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="50" x="134" y="427.4844">Sender</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="70" x="276" y="5"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="56" x="283" y="26.0752">Window</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="70" x="276" y="406.4092"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="56" x="283" y="427.4844">Window</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="37" x="376" y="5"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="23" x="383" y="26.0752">API</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="37" x="376" y="406.4092"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="23" x="383" y="427.4844">API</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="60" x="443" y="5"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="46" x="450" y="26.0752">Server</text><rect fill="#FFFFFF" height="31.0146" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="60" x="443" y="406.4092"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="46" x="450" y="427.4844">Server</text><rect fill="#9DA1AB" height="351.3945" style="stroke:#000000;stroke-width:1.0;" width="10" x="306" y="47.0146"/><rect fill="#D3D3D3" height="43.7993" style="stroke:#000000;stroke-width:1.0;" width="10" x="311" y="156.4126"/><rect fill="#9DA1AB" height="351.3945" style="stroke:#000000;stroke-width:1.0;" width="10" x="389.5" y="47.0146"/><rect fill="#D3D3D3" height="29.7993" style="stroke:#000000;stroke-width:1.0;" width="10" x="468" y="214.2119"/><rect fill="#D3D3D3" height="59.5986" style="stroke:#000000;stroke-width:1.0;" width="10" x="468" y="329.8105"/><polygon fill="#000000" points="294,64.814,304,68.814,294,72.814,298,68.814" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="159" x2="300" y1="68.814" y2="68.814"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="57" x="166" y="64.0845">message</text><polygon fill="#000000" points="294,94.6133,304,98.6133,294,102.6133,298,98.6133" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="159" x2="300" y1="98.6133" y2="98.6133"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="123" x="166" y="93.8838">recipient's address</text><rect fill="#FFFFFF" height="3" style="stroke:#FFFFFF;stroke-width:1.0;" width="513" x="5" y="119.6133"/><line style="stroke:#000000;stroke-width:0.5;" x1="5" x2="518" y1="119.6133" y2="119.6133"/><line style="stroke:#000000;stroke-width:0.5;" x1="5" x2="518" y1="122.6133" y2="122.6133"/><polygon fill="#000000" points="299,152.4126,309,156.4126,299,160.4126,303,156.4126" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="159" x2="305" y1="156.4126" y2="156.4126"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="30" x="166" y="151.6831">login</text><polygon fill="#000000" points="377.5,166.4126,387.5,170.4126,377.5,174.4126,381.5,170.4126" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="321" x2="383.5" y1="170.4126" y2="170.4126"/><polygon fill="#000000" points="294,196.2119,304,200.2119,294,204.2119,298,200.2119" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="159" x2="300" y1="200.2119" y2="200.2119"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="62" x="166" y="195.4824">password</text><polygon fill="#000000" points="456,210.2119,466,214.2119,456,218.2119,460,214.2119" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="399.5" x2="462" y1="214.2119" y2="214.2119"/><polygon fill="#000000" points="170,240.0112,160,244.0112,170,248.0112,166,244.0112" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="164" x2="472" y1="244.0112" y2="244.0112"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="59" x="176" y="239.2817">response</text><rect fill="#FFFFFF" height="3" style="stroke:#FFFFFF;stroke-width:1.0;" width="513" x="5" y="265.0112"/><line style="stroke:#000000;stroke-width:0.5;" x1="5" x2="518" y1="265.0112" y2="265.0112"/><line style="stroke:#000000;stroke-width:0.5;" x1="5" x2="518" y1="268.0112" y2="268.0112"/><polygon fill="#000000" points="294,297.8105,304,301.8105,294,305.8105,298,301.8105" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="159" x2="300" y1="301.8105" y2="301.8105"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="50" x="166" y="297.0811">request</text><polygon fill="#000000" points="377.5,311.8105,387.5,315.8105,377.5,319.8105,381.5,315.8105" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="316" x2="383.5" y1="315.8105" y2="315.8105"/><polygon fill="#000000" points="456,325.8105,466,329.8105,456,333.8105,460,329.8105" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;" x1="399.5" x2="462" y1="329.8105" y2="329.8105"/><polygon fill="#000000" points="170,355.6099,160,359.6099,170,363.6099,166,359.6099" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="164" x2="467" y1="359.6099" y2="359.6099"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="59" x="176" y="354.8804">response</text><polygon fill="#000000" points="69.5,385.4092,59.5,389.4092,69.5,393.4092,65.5,389.4092" style="stroke:#000000;stroke-width:1.0;"/><line style="stroke:#000000;stroke-width:1.0;stroke-dasharray:2.0,2.0;" x1="63.5" x2="472" y1="389.4092" y2="389.4092"/><text fill="#000000" font-family="Verdana" font-size="13" lengthAdjust="spacing" textLength="33" x="75.5" y="384.6797">email</text><!--MD5=[0989d80b196423a57d7f22588c89cf9a]
+@startuml idea.sequence.email
+!theme plain
+
+participant "Recipient" as two 
+participant "Sender" as one 
+
+activate Window #9DA1AB
+activate API #9DA1AB
+participant Server
+
+one -> Window : message
+one -> Window : recipient's address
+====
+
+one -> Window : login
+activate Window #LightGray
+Window -> API
+one -> Window : password
+deactivate Window 
+API -> Server 
+activate Server #LightGray
+Server - -> one : response 
+deactivate Server
+====
+one -> Window : request
+Window -> API
+API -> Server
+activate Server #LightGray
+Server - -> one : response
+Server - -> two : email
+deactivate Server
+
+@enduml
+
+@startuml idea.sequence.email
+
+
+
+
+
+
+
+<style>
+  root {
+    BackgroundColor white
+    FontColor black
+    FontName Verdana
+    HyperLinkColor blue
+    LineColor black
+    LineThickness 1
+    Margin 5
+  }
+  caption {
+    LineThickness 0
+  }
+  footer {
+    LineThickness 0
+  }
+  header {
+    LineThickness 0
+  }
+  node {
+    MaximumWidth 300
+  }
+  title {
+    FontSize 22
+    LineThickness 0
+  }
+</style>
+
+skinparam ArrowLollipopColor black
+skinparam BackgroundColor white
+skinparam DefaultFontName Verdana
+skinparam DefaultMonospacedFontName Courier
+skinparam LifelineStrategy nosolid
+skinparam ParticipantPadding 10
+skinparam SequenceLifeLineBorderColor black
+skinparam Shadowing false
+skinparam UseBetaStyle true
+
+skinparam Activity {
+  BackgroundColor white
+  BarColor black
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam Boundary {
+  FontColor black
+}
+skinparam Box {
+  Padding 5
+}
+skinparam CircledCharacter {
+  FontColor black
+  FontName Courier
+  Radius 9
+}
+skinparam Class {
+  BackgroundColor white
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassAttribute {
+  FontColor black
+  FontName Verdana
+}
+skinparam ClassStereotype {
+  FontColor black
+  FontName Verdana
+}
+skinparam Footer {
+  FontColor black
+  FontName Verdana
+}
+skinparam Header {
+  FontColor black
+  FontName Verdana
+}
+skinparam Hyperlink {
+  Color blue
+}
+skinparam IconPackage {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPrivate {
+  Color black
+  BackgroundColor white
+}
+skinparam IconProtected {
+  Color black
+  BackgroundColor white
+}
+skinparam IconPublic {
+  Color black
+  BackgroundColor white
+}
+skinparam Note {
+  FontColor black
+  FontName Verdana
+}
+skinparam Object {
+  BorderColor black
+}
+skinparam Package {
+  BorderColor black
+  FontColor black
+  FontName Verdana
+}
+skinparam State {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeA {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeC {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeE {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeI {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam StereotypeN {
+  BackgroundColor white
+  BorderColor black
+}
+skinparam UseCaseStereoType {
+  FontColor black
+  FontName Verdana
+}
+
+participant "Recipient" as two 
+participant "Sender" as one 
+
+activate Window #9DA1AB
+activate API #9DA1AB
+participant Server
+
+one -> Window : message
+one -> Window : recipient's address
+====
+
+one -> Window : login
+activate Window #LightGray
+Window -> API
+one -> Window : password
+deactivate Window 
+API -> Server 
+activate Server #LightGray
+Server - -> one : response 
+deactivate Server
+====
+one -> Window : request
+Window -> API
+API -> Server
+activate Server #LightGray
+Server - -> one : response
+Server - -> two : email
+deactivate Server
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 23:01:30 GMT+06:00 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: Cp1251
+Language: ru
+Country: RU
+--></g></svg>

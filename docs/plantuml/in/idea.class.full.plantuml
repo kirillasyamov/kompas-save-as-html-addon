@@ -1,0 +1,287 @@
+@startuml idea.class.full
+
+!theme plain
+allowmixing
+
+package "<i> exe </i>" {
+    KompasObject *-- ksDocument3D
+
+    package "<i> dll </i>" #e5f6f4 {
+
+        package "<i> csharp </i>" {
+            Program <-left- Document3DHandler
+            Program <-down- HtmlBuilder
+            
+            Program o-- KompasObject
+            Program o-- ksDocument3D 
+            IKompasConverter <|.down. Program
+        }
+
+        package "<i> restext </i>" {
+            
+            package "<i> html </i>" {
+
+                package "<i> javascript </i>" {
+
+                    package "<i> glsl </i>" {
+
+                        struct meshData {
+                            **float4** vetrex 
+                            **float2** uv 
+                            **float2** uv0
+                            **float2** uv1
+                            **float4** color 
+                            **float4** tangent 
+                        }
+                        struct v2f {
+                            **float4** vetrex 
+                            **float2** uv
+                            GL_FOG_COORDS()
+                        }
+                        struct interpolators {
+                            **float4** vetrex 
+                            **float3** normal 
+                            **float2** uv
+                            objectToClipPos()
+                            mul()
+                        }
+                        struct frag {
+                            main()
+                        }
+                        struct vert {
+                            main()
+                        }
+
+                        frag o-- meshData
+                        frag o-- v2f
+                        frag o-- interpolators
+                        vert o-- meshData
+                        vert o-- v2f
+                        vert o-- interpolators
+
+
+                        meshData -[hidden]up-> v2f
+                        v2f -[hidden]up-> interpolators
+                        interpolators -[hidden]down-> frag
+                        frag -[hidden]left-> vert
+                    }
+
+                    package "<i> typescript </i>" {
+                        class Object3d
+
+                        VectorType -[hidden]left> Vector
+                        Vector -[hidden]left> Vector2
+                        Vector2 -[hidden]left> Vector3
+                        Vector3 -[hidden]left> Vector4
+                        Vector4 -[hidden]left> VectorFactory
+
+                        MatrixType -[hidden]left> Matrix
+                        Matrix -[hidden]left> Matrix2
+                        Matrix2 -[hidden]left> Matrix3
+                        Matrix3 -[hidden]left> Matrix4
+                        Matrix4 -[hidden]left> MatrixFactory
+
+                        Vector2 --o VectorFactory
+                        Vector3 --o VectorFactory
+                        Vector4 --o  VectorFactory
+                        Matrix2  --o MatrixFactory
+                        Matrix3  --o MatrixFactory
+                        Matrix4  --o MatrixFactory
+
+                        Renderer *-- Scene
+                        Renderer *-- Camera
+                        Renderer <-- Parser
+                        Renderer <-- Pipeline
+                        Geometry <-left- Object3d
+
+                        Camera <-- VectorFactory
+                        Camera <-- MatrixFactory
+
+                        Mesh <-- VectorFactory
+                        Mesh <-- MatrixFactory
+
+                        Scene <-- VectorFactory
+                        Scene <-- MatrixFactory
+
+                        VectorType --> Vector
+                        MatrixType --> Matrix
+        
+                    } 
+                }
+            }
+        }
+    }
+}
+
+    
+
+
+
+
+class Geometry {
+    # **WebGLBuffer** UBO
+    # **WebGLBuffer** VAO
+    # **UniformBuffer** uniformBuffer
+    # **Uint32Array** indicesBuffer
+    + **Array<Attributes>** targets
+    ...
+}
+class Pipeline {
+    + **string** pixelShader
+    + **string** fragmentShader
+    + **string** vertexShader
+    ...
+}
+
+
+class ksDocument3D {
+    + **long** drawMode
+    ...
+
+    + **long** ksGetObjParam (**long** reference, **LPDISPATCH** param, **long** paramType)
+    + **bool** SaveAsToAdditionFormat (**BSTR** fileName, **LPDISPATCH** additionPar)
+    {method} ...
+}
+class KompasObject {
+    + **LPDISPATCH** ActiveDocument3D
+    + **LPDISPATCH** ActiveDocument2D
+    ...
+    + **long** ksAttachKompasLibrary(**BSTR** libName)
+    + **long** ksDetachKompasLibrary (**long** libId)
+    + **long** ksExecuteKompasLibraryCommand (**long** libId, **long** command)
+    + **long** ksDrawKompasDocument (**long** HWindow, **BSTR** docFileName)
+    {method} ...
+}
+
+
+interface IKompasConverter {
+    + **boolean** CanUnloadLibrary
+    + **short[]** CIonverterParameters 
+    + GetFilter(**long** docType, **boolean** saveAs, **long** command)
+    + **boolean** Convert()
+    + **string[]** VIisualEditConvertParam
+}
+class Program { 
+    # KompasObject application
+    # ksDocument3D document
+    ...
+    + {static} **void** RegisterKompasLib(**Type** t)
+    + {static} **void** UnregisterKompasLib(**Type** t)
+    ...<color:#DDDDDD>()</color>
+}
+class HtmlBuilder {
+    # **string** htmlPattern
+    + {static} **boolean** build(**string** geometryData, **string** path, **string** fileName)
+}
+class Document3DHandler {
+    + {static} **string** getGeometryData(...)
+    + {static} **ksDocument2D** get2dView(...)
+}
+
+
+
+
+class Object3d {
+    # **number** uuid
+    + **string** name
+    + **Matrix** matrix
+    + **Matrix** matrixWorld
+    ...
+    ...<color:#DDDDDD>()</color>
+}
+class Scene {
+    + **Matrix** matrixWorld
+    + **Array<Matrix>** bin
+    ...
+    ...<color:#DDDDDD>()</color>
+}
+class Camera extends Object3d {
+    + **CameraProps** properties
+    + **Matrix4** projection
+    + **Matrix4** initial
+    + **Matrix4** rotation
+    ...<color:#DDDDDD>()</color>
+}
+class Mesh extends Object3d {
+    + **Geometry** geometry
+    # **WebGLProgram** program
+    ...<color:#DDDDDD>()</color>
+}
+
+
+
+
+
+class Renderer {
+    **Scene** scene
+    **Camera** camera
+    **Object** canvas
+    + **void** init()
+}
+
+
+class Parser {
+    + {static} **Geometry** parse(**string** geometryData)
+}
+
+abstract class Vector {
+    # {abstract} **number** size
+    # **number** elements
+    + **VectorType | undefined** type
+    ...
+    + **number** get(**number** i)
+    {method} ...
+}
+enum VectorType {
+    unit
+    zero
+}
+class Vector2 extends Vector {
+    + **number** x
+    + **number** y
+    ...
+}
+class Vector3 extends Vector2 {
+    + **number** z
+    ...
+}
+class Vector4 extends Vector3 {
+    + **number** w
+    ...
+}
+class MatrixFactory {
+    + {static} **Matrix** createOne(...)
+    + {static} **Array<Matrix>** createGroup(...)
+}
+class VectorFactory {
+    + {static} **Vector** createOne(...)
+    + {static} **Array<Vector>** createGroup(...)
+}
+
+abstract class Matrix {
+    # {abstract} **number** size
+    # **number** elements
+    + **MatrixType | undefined** type 
+    
+    + **number** get(**number** i, **number** j)
+    ...<color:#DDDDDD>()</color>
+}
+enum MatrixType {
+    identity
+    zero
+}
+class Matrix2 extends Matrix {
+    + **number** x
+    + **number** y
+    ...
+}
+class Matrix3 extends Matrix2 {
+    + **number** z
+    ...
+}
+class Matrix4 extends Matrix3 {
+    + **number** w
+    ...
+}
+
+@enduml
