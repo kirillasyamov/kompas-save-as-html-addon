@@ -1,292 +1,373 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1094px" preserveAspectRatio="none" style="width:639px;height:1094px;background:#FFFFFF;" version="1.1" viewBox="0 0 639 1094" width="639px" zoomAndPan="magnify"><defs/><g><!--MD5=[bd749b0dec774eb35da62473a029caa1]
-cluster kapp--><g id="cluster_kapp"><rect fill="#FFFFFF" height="238" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="331" x="302.5" y="850.1191"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="143" x="396.5" y="874.2373">Kompas-3D</text></g><!--MD5=[198e9ee9c7508fdcae31a320cfde0f5f]
-cluster save-as-html-addon--><g id="cluster_save-as-html-addon"><rect fill="#C1D6FB" height="95" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="267" x="334.5" y="953.1191"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="251" x="342.5" y="977.2373">save-as-html-addon</text></g><!--MD5=[8699c0c8e953ee53654a072cc875bfb4]
-cluster Browser--><g id="cluster_Browser"><rect fill="#FFFFFF" height="562" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="269" x="333" y="231.1191"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="104" x="415.5" y="255.2373">Browser</text></g><!--MD5=[edc0ffa9b55454e43e323fa7176ade77]
-cluster geometry tab--><g id="cluster_geometry tab"><rect fill="#C1D6FB" height="231" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="205" x="365" y="407.1191"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="166" x="384.5" y="431.2373">geometry tab</text></g><!--MD5=[7a46cff4f811cbbee7d728465a9967df]
-cluster email tab--><g id="cluster_email tab"><rect fill="#FFFFFF" height="91" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="140" x="397.5" y="662.1191"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="117" x="409" y="686.2373">email tab</text></g><!--MD5=[a3ccbbd9f1918c6c5f053b04cc6a51e7]
-cluster messenger tab--><g id="cluster_messenger tab"><rect fill="#FFFFFF" height="91" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="200" x="367.5" y="292.1191"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="184" x="375.5" y="316.2373">messenger tab</text></g><!--MD5=[d64883541e3d62e3241c4d12decf100d]
-cluster Application--><g id="cluster_Application"><rect fill="#FFFFFF" height="174" rx="2.5" ry="2.5" style="stroke:#000000;stroke-width:1.0;" width="208" x="363.5" y="12.1191"/><text fill="#000000" font-family="Verdana" font-size="22" font-weight="bold" lengthAdjust="spacing" textLength="140" x="397.5" y="36.2373">Application</text></g><g id="elem_Create Model"><ellipse cx="467.4388" cy="920.0069" fill="#FFFFFF" rx="69.9388" ry="16.3878" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="91" x="419.1491" y="924.2503">Create Model</text></g><g id="elem_Save as html"><ellipse cx="467.4388" cy="1015.0069" fill="#FFFFFF" rx="69.9388" ry="16.3878" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="91" x="419.1491" y="1019.2503">Save as html</text></g><g id="elem_s1"><ellipse cx="467.623" cy="532.2003" fill="#FFFFFF" rx="54.123" ry="15.0811" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="434.623" y="536.4878">Send file</text></g><g id="elem_com"><ellipse cx="467.7046" cy="467.2705" fill="#FFFFFF" rx="63.7046" ry="15.1514" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="73" x="428.2046" y="471.5581">Add notes</text></g><g id="elem_work"><ellipse cx="467.6263" cy="602.3444" fill="#FFFFFF" rx="86.6263" ry="19.7253" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="132" x="401.6263" y="605.9123">Rotate, zoom, etc.</text></g><g id="elem_s2"><ellipse cx="467.623" cy="722.2003" fill="#FFFFFF" rx="54.123" ry="15.0811" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="434.623" y="726.4878">Send file</text></g><g id="elem_s5"><ellipse cx="467.623" cy="352.2003" fill="#FFFFFF" rx="54.123" ry="15.0811" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="434.623" y="356.4878">Send file</text></g><g id="elem_s3"><ellipse cx="467.5746" cy="104.2127" fill="#FFFFFF" rx="80.0746" ry="39.0935" style="stroke:#000000;stroke-width:1.0;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="60" x="437.5746" y="90.7659">Send file</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="97" x="419.0746" y="107.7805">in a message,</text><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="74" x="430.5746" y="124.7952">in an email</text></g><!--MD5=[a718003c1f5b4500bb388f6c1a472273]
-entity one--><g id="elem_one"><ellipse cx="84" cy="751.6191" fill="#FFFFFF" rx="16" ry="16" style="stroke:#000000;stroke-width:1.5;"/><path d="M84,771.6191 C88,771.6191 91,771.6191 95,767.6191 C103,767.6191 111,775.6191 111,783.6191 L111,787.6191 C111,791.6191 107,795.6191 103,795.6191 L65,795.6191 C61,795.6191 57,791.6191 57,787.6191 L57,783.6191 C57,775.6191 65,767.6191 73,767.6191 C77,771.6191 80,771.6191 84,771.6191 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="132" x="18" y="811.1943">Worker or student</text></g><!--MD5=[807decba0a354aa2287ec14ffad6d16d]
-entity two--><g id="elem_two"><ellipse cx="84" cy="255.6191" fill="#FFFFFF" rx="16" ry="16" style="stroke:#000000;stroke-width:1.5;"/><path d="M84,275.6191 C88,275.6191 91,275.6191 95,271.6191 C103,271.6191 111,279.6191 111,287.6191 L111,291.6191 C111,295.6191 107,299.6191 103,299.6191 L65,299.6191 C61,299.6191 57,295.6191 57,291.6191 L57,287.6191 C57,279.6191 65,271.6191 73,271.6191 C77,275.6191 80,275.6191 84,275.6191 " fill="#FFFFFF" style="stroke:#000000;stroke-width:1.5;"/><text fill="#000000" font-family="Verdana" font-size="14" lengthAdjust="spacing" textLength="146" x="11" y="315.1943">Customer or teacher</text></g><!--MD5=[5a19d15ba8bdc531aec9ead665f41ff0]
-link one to Create Model--><g id="link_one_Create Model"><path d="M138.27,814.1891 C161.47,830.0791 189.58,847.3291 217,859.1191 C279.48,885.9691 356.06,902.4791 407.77,911.4391 " fill="none" id="one-Create Model" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[e4d7633c255135fe0bd0ddb7d0cbd8c1]
-link one to Save as html--><g id="link_one_Save as html"><path d="M108.72,814.5491 C141.47,866.2491 205.77,953.9991 286.5,995.1191 C320.96,1012.6691 363.86,1017.9791 399.13,1018.7491 " fill="none" id="one-Save as html" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[da9f90f6d6c7f7df26a249c68bcffeeb]
-link one to s1--><g id="link_one_s1"><path d="M150.17,765.3191 C194.17,755.6991 249.41,735.6591 279,694.1191 C295.66,670.7291 267.48,586.6391 286.5,565.1191 C318.58,528.8191 376.32,524.0491 417.76,526.1391 " fill="none" id="one-s1" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[faaf6652f1fee72f34f550d680fd8624]
-link two to s1--><g id="link_two_s1"><path d="M157.41,288.5091 C200.11,298.6791 251.1,318.7291 279,358.1191 C297.26,383.9091 265.57,476.4391 286.5,500.1191 C318.66,536.5091 376.67,540.8291 418.15,538.4191 " fill="none" id="two-s1" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[96f2f358e63cb94bf001d34c1e97ba2c]
-link one to com--><g id="link_one_com"><path d="M150.28,742.3091 C194.93,716.7591 250.94,676.3591 279,623.1191 C291.77,598.8991 268.34,520.6091 286.5,500.1191 C316.53,466.2391 368.9,459.8491 409.44,460.8491 " fill="none" id="one-com" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[ae328cb671d55355c03d79a0f94da53e]
-link two to com--><g id="link_two_com"><path d="M157.32,260.2791 C198.37,254.7891 247.64,256.7391 279,287.1191 C294.37,302.0091 274.31,365.5291 286.5,383.1191 C316.36,426.1991 374.22,447.7391 416.3,458.1191 " fill="none" id="two-com" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[1c11f920b2abb3b3944e8de672fe8aa9]
-link one to work--><g id="link_one_work"><path d="M150.04,790.6791 C192.26,797.2191 245.46,796.8791 279,765.1191 C291,753.7591 277.08,704.6991 286.5,691.1191 C314.21,651.1591 365.17,628.3191 405.81,615.8091 " fill="none" id="one-work" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[eecdfc3751dd457e3fb92dd9428f7e13]
-link two to work--><g id="link_two_work"><path d="M157.11,313.7891 C200.57,339.4491 252.48,378.4491 279,429.1191 C286.02,442.5291 276.62,553.6591 286.5,565.1191 C309.94,592.2991 347.54,602.7391 382.33,605.8991 " fill="none" id="two-work" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[3809ca2a1b31eb5012e10d339003fbea]
-link one to s2--><g id="link_one_s2"><path d="M135.07,814.2691 C178.14,843.7091 239.4,872.7191 279,836.1191 C294.55,821.7491 271.72,756.2891 286.5,741.1191 C321.58,705.0991 383.12,706.6791 424.35,712.9391 " fill="none" id="one-s2" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[c9a87a75d2e8ced7bd87cb19c6fe0fb8]
-link two to s2--><g id="link_two_s2"><path d="M98.09,318.2391 C123.6,390.8491 186.4,545.1291 286.5,638.1191 C327.43,676.1391 388.64,699.6791 428.07,711.8391 " fill="none" id="two-s2" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[5354c9a5f5c99ef11ab63e5c36d7e0bd]
-link one to s5--><g id="link_one_s5"><path d="M109.1,734.0591 C135.81,689.6391 180.1,615.8291 218,552.1191 C248.61,500.6591 242.16,476.3591 286.5,436.1191 C327.87,398.5691 388.96,374.9091 428.25,362.5891 " fill="none" id="one-s5" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[6309831a53b2240f73983e67f27cacf6]
-link two to s5--><g id="link_two_s5"><path d="M147.08,237.9791 C185.17,218.3891 234.94,201.8191 279,216.1191 C353.97,240.4491 424.05,307.2391 452.78,337.2191 " fill="none" id="two-s5" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[7e5c6d3c7a29dc140c97e44804521390]
-link one to s3--><g id="link_one_s3"><path d="M85.17,734.0991 C87.94,623.1491 111.61,309.1191 286.5,147.1191 C313.61,122.0091 352.68,110.7791 387.5,106.0291 " fill="none" id="one-s3" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[996a753b0604f49e49fcc659cf1add4c]
-link two to s3--><g id="link_two_s3"><path d="M108.55,237.7791 C139.98,188.4391 200.75,107.3791 278,74.1191 C318.94,56.4991 368.89,65.6691 407.09,78.3491 " fill="none" id="two-s3" style="stroke:#000000;stroke-width:1.0;"/></g><!--MD5=[979fe6d13d1d452605644fa0682fa699]
-link Browser to Application--><!--MD5=[3647f31422ad5fa480949a2cdf3b960e]
-link Application to kapp--><!--MD5=[06a8f53e7e033d01397ec3651ccc2bad]
-link kapp to Browser--><!--MD5=[795fb2aff1d74b9770fd59afb092ec33]
-@startuml idea.usecase
-!theme plain
-left to right direction 
-skinparam handwritten false
-skinparam actorStyle awesome 
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG vv.usecase.svg test -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="18.9067in" height="7.39411in"
+		viewBox="0 0 1361.28 532.376" xml:space="preserve" color-interpolation-filters="sRGB" class="st10">
+	<v:documentProperties v:langID="1049" v:viewMarkup="false"/>
 
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:#ffffff;stroke:#000000;stroke-linecap:butt;stroke-width:1.91038}
+		.st2 {fill:none;stroke:none;stroke-linecap:butt;stroke-width:0.75}
+		.st3 {fill:#000000;font-family:Verdana;font-size:1.33333em;font-weight:bold}
+		.st4 {fill:#dae3f3;stroke:#000000;stroke-linecap:butt;stroke-width:1.91038}
+		.st5 {fill:#000000;font-family:Verdana;font-size:1.33333em}
+		.st6 {font-size:1em}
+		.st7 {fill:#ffffff;stroke:#000000;stroke-linecap:butt;stroke-width:2.86558}
+		.st8 {fill:none}
+		.st9 {stroke:#000000;stroke-linecap:butt;stroke-width:1.71875}
+		.st10 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
 
-skinparam packageStyle rectangle
-
-actor one as "Worker or student"
-actor two as "Customer or teacher"
-
-rectangle Kompas-3D as kapp {
-    one - - - - (Create Model)
-    rectangle save-as-html-addon #c1d6fb {
-        one - - - - (Save as html)
-    }
-}
-rectangle Browser {
-    rectangle "geometry tab" #c1d6fb {
-        usecase s1 as "Send file"
-        usecase com as "Add notes"
-        usecase work as "Rotate, zoom, etc."
-        one - - - - s1
-        two - - - - s1
-        one - - - - com
-        two - - - - com
-        one - - - - work
-        two - - - - work
-    }
-    rectangle "email tab" {
-        usecase "Send file" as s2
-        one - - - - (s2)
-        two - - - - (s2)
-    }
-    rectangle "messenger tab" {
-        usecase "Send file" as s5
-        one - - - - (s5)
-        two - - - - (s5)
-    }
-}
-
-rectangle Application {
-    usecase s3 as "Send file
-    in a message,
-    in an email"
-    one - - - - (s3)
-    two - - - - (s3)
-}
-
-Browser -[hidden]down- Application
-
-kapp -[hidden]left- Application
-kapp -[hidden]down- Browser 
-
-@enduml
-
-@startuml idea.usecase
-
-
-
-
-
-
-
-<style>
-  root {
-    BackgroundColor white
-    FontColor black
-    FontName Verdana
-    HyperLinkColor blue
-    LineColor black
-    LineThickness 1
-    Margin 5
-  }
-  caption {
-    LineThickness 0
-  }
-  footer {
-    LineThickness 0
-  }
-  header {
-    LineThickness 0
-  }
-  node {
-    MaximumWidth 300
-  }
-  title {
-    FontSize 22
-    LineThickness 0
-  }
-</style>
-
-skinparam ArrowLollipopColor black
-skinparam BackgroundColor white
-skinparam DefaultFontName Verdana
-skinparam DefaultMonospacedFontName Courier
-skinparam LifelineStrategy nosolid
-skinparam ParticipantPadding 10
-skinparam SequenceLifeLineBorderColor black
-skinparam Shadowing false
-skinparam UseBetaStyle true
-
-skinparam Activity {
-  BackgroundColor white
-  BarColor black
-  BorderColor black
-  FontColor black
-  FontName Verdana
-}
-skinparam Boundary {
-  FontColor black
-}
-skinparam Box {
-  Padding 5
-}
-skinparam CircledCharacter {
-  FontColor black
-  FontName Courier
-  Radius 9
-}
-skinparam Class {
-  BackgroundColor white
-  BorderColor black
-  FontColor black
-  FontName Verdana
-}
-skinparam ClassAttribute {
-  FontColor black
-  FontName Verdana
-}
-skinparam ClassStereotype {
-  FontColor black
-  FontName Verdana
-}
-skinparam Footer {
-  FontColor black
-  FontName Verdana
-}
-skinparam Header {
-  FontColor black
-  FontName Verdana
-}
-skinparam Hyperlink {
-  Color blue
-}
-skinparam IconPackage {
-  Color black
-  BackgroundColor white
-}
-skinparam IconPrivate {
-  Color black
-  BackgroundColor white
-}
-skinparam IconProtected {
-  Color black
-  BackgroundColor white
-}
-skinparam IconPublic {
-  Color black
-  BackgroundColor white
-}
-skinparam Note {
-  FontColor black
-  FontName Verdana
-}
-skinparam Object {
-  BorderColor black
-}
-skinparam Package {
-  BorderColor black
-  FontColor black
-  FontName Verdana
-}
-skinparam State {
-  BackgroundColor white
-  BorderColor black
-}
-skinparam StereotypeA {
-  BackgroundColor white
-  BorderColor black
-}
-skinparam StereotypeC {
-  BackgroundColor white
-  BorderColor black
-}
-skinparam StereotypeE {
-  BackgroundColor white
-  BorderColor black
-}
-skinparam StereotypeI {
-  BackgroundColor white
-  BorderColor black
-}
-skinparam StereotypeN {
-  BackgroundColor white
-  BorderColor black
-}
-skinparam UseCaseStereoType {
-  FontColor black
-  FontName Verdana
-}
-left to right direction 
-skinparam handwritten false
-skinparam actorStyle awesome 
-
-
-skinparam packageStyle rectangle
-
-actor one as "Worker or student"
-actor two as "Customer or teacher"
-
-rectangle Kompas-3D as kapp {
-    one - - - - (Create Model)
-    rectangle save-as-html-addon #c1d6fb {
-        one - - - - (Save as html)
-    }
-}
-rectangle Browser {
-    rectangle "geometry tab" #c1d6fb {
-        usecase s1 as "Send file"
-        usecase com as "Add notes"
-        usecase work as "Rotate, zoom, etc."
-        one - - - - s1
-        two - - - - s1
-        one - - - - com
-        two - - - - com
-        one - - - - work
-        two - - - - work
-    }
-    rectangle "email tab" {
-        usecase "Send file" as s2
-        one - - - - (s2)
-        two - - - - (s2)
-    }
-    rectangle "messenger tab" {
-        usecase "Send file" as s5
-        one - - - - (s5)
-        two - - - - (s5)
-    }
-}
-
-rectangle Application {
-    usecase s3 as "Send file
-    in a message,
-    in an email"
-    one - - - - (s3)
-    two - - - - (s3)
-}
-
-Browser -[hidden]down- Application
-
-kapp -[hidden]left- Application
-kapp -[hidden]down- Browser 
-
-@enduml
-
-PlantUML version 1.2022.7(Mon Aug 22 23:01:30 GMT+06:00 2022)
-(GPL source distribution)
-Java Runtime: OpenJDK Runtime Environment
-JVM: OpenJDK 64-Bit Server VM
-Default Encoding: Cp1251
-Language: ru
-Country: RU
---></g></svg>
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>test</title>
+		<v:pageProperties v:drawingScale="1" v:pageScale="1" v:drawingUnits="19" v:shadowOffsetX="9" v:shadowOffsetY="-9"/>
+		<v:layer v:name="Соединительная линия" v:index="0"/>
+		<g id="shape877-1" v:mID="877" v:groupContext="shape" transform="translate(277.79,-106.425)">
+			<title>Лист.877</title>
+			<path d="M446.52 356.54 C447.7 356.54 448.66 357.49 448.66 358.67 L448.66 530.24 C448.66 531.42 447.7 532.38 446.52 532.38
+						 L2.14 532.38 C0.96 532.38 0 531.42 0 530.24 L0 358.67 C0 357.49 0.96 356.54 2.14 356.54 L446.52 356.54 Z"
+					class="st1"/>
+		</g>
+		<g id="shape878-3" v:mID="878" v:groupContext="shape" transform="translate(449.709,-256.324)">
+			<title>Лист.878</title>
+			<desc>Kompas-3D</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="52.4107" cy="521.101" width="104.83" height="22.5504"/>
+			<rect x="0" y="509.826" width="104.821" height="22.5504" class="st2"/>
+			<text x="0" y="525.9" class="st3" v:langID="1049"><v:paragraph/><v:tabList/>Kompas-3D</text>		</g>
+		<g id="shape879-6" v:mID="879" v:groupContext="shape" transform="translate(468.395,-133.606)">
+			<title>Лист.879</title>
+			<path d="M228.4 435.73 C229.58 435.73 230.54 436.69 230.54 437.87 L230.54 530.24 C230.54 531.42 229.58 532.38 228.4 532.38
+						 L2.13 532.38 C0.96 532.38 0 531.42 0 530.24 L0 437.87 C0 436.69 0.96 435.73 2.13 435.73 L228.4 435.73 Z"
+					class="st4"/>
+		</g>
+		<g id="shape880-8" v:mID="880" v:groupContext="shape" transform="translate(490.488,-204.311)">
+			<title>Лист.880</title>
+			<desc>save-as-html-addon</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="93.1757" cy="521.101" width="186.36" height="22.5504"/>
+			<rect x="0" y="509.826" width="186.351" height="22.5504" class="st2"/>
+			<text x="0" y="525.9" class="st3" v:langID="1049"><v:paragraph/><v:tabList/>save-as-html-addon</text>		</g>
+		<g id="shape881-11" v:mID="881" v:groupContext="shape" transform="translate(314.703,-153.74)">
+			<title>Лист.881</title>
+			<path d="M137.25 516.6 C137.25 525.32 106.52 532.38 68.62 532.38 C30.72 532.38 0 525.32 0 516.6 C0 507.89 30.72 500.83
+						 68.62 500.83 C106.52 500.83 137.25 507.89 137.25 516.6 Z" class="st1"/>
+		</g>
+		<g id="shape882-13" v:mID="882" v:groupContext="shape" transform="translate(320.572,-160.95)">
+			<title>Лист.882</title>
+			<desc>Create a model</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="65.649" cy="525.128" width="131.3" height="14.4967"/>
+			<rect x="0" y="517.879" width="131.298" height="14.4967" class="st2"/>
+			<text x="0" y="529.93" class="st5" v:langID="1049"><v:paragraph/><v:tabList/>Create a model</text>		</g>
+		<g id="shape883-16" v:mID="883" v:groupContext="shape" transform="translate(482.489,-147.029)">
+			<title>Лист.883</title>
+			<path d="M202.68 510.06 C202.68 522.39 157.31 532.38 101.34 532.38 C45.37 532.38 0 522.39 0 510.06 C0 497.73 45.37 487.74
+						 101.34 487.74 C157.31 487.74 202.68 497.73 202.68 510.06 Z" class="st1"/>
+		</g>
+		<g id="shape884-18" v:mID="884" v:groupContext="shape" transform="translate(523.459,-163.036)">
+			<title>Лист.884</title>
+			<desc>Save as HTML</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="60.372" cy="525.128" width="120.75" height="14.4967"/>
+			<rect x="0" y="517.879" width="120.744" height="14.4967" class="st2"/>
+			<text x="0" y="529.93" class="st5" v:langID="1049"><v:paragraph/><v:tabList/>Save as HTML</text>		</g>
+		<g id="shape885-21" v:mID="885" v:groupContext="shape" transform="translate(200.274,-334.613)">
+			<title>Лист.885</title>
+			<path d="M962.29 354.52 C963.47 354.52 964.43 355.48 964.43 356.66 L964.43 530.24 C964.43 531.42 963.47 532.38 962.29
+						 532.38 L2.14 532.38 C0.96 532.38 0 531.42 0 530.24 L0 356.66 C0 355.48 0.96 354.52 2.14 354.52 L962.29 354.52
+						 Z" class="st1"/>
+		</g>
+		<g id="shape886-23" v:mID="886" v:groupContext="shape" transform="translate(643.14,-486.19)">
+			<title>Лист.886</title>
+			<desc>Browser</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="39.3485" cy="521.101" width="78.7" height="22.5504"/>
+			<rect x="0" y="509.826" width="78.6969" height="22.5504" class="st2"/>
+			<text x="0" y="525.9" class="st3" v:langID="1049"><v:paragraph/><v:tabList/>Browser</text>		</g>
+		<g id="shape887-26" v:mID="887" v:groupContext="shape" transform="translate(234.502,-361.794)">
+			<title>Лист.887</title>
+			<path d="M522.7 434.05 C523.88 434.05 524.83 435.01 524.83 436.19 L524.83 530.24 C524.83 531.42 523.88 532.38 522.7 532.38
+						 L2.14 532.38 C0.96 532.38 0 531.42 0 530.24 L0 436.19 C0 435.01 0.96 434.05 2.14 434.05 L522.7 434.05 Z"
+					class="st4"/>
+		</g>
+		<g id="shape888-28" v:mID="888" v:groupContext="shape" transform="translate(450.58,-434.177)">
+			<title>Лист.888</title>
+			<desc>report tab</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="46.3385" cy="521.101" width="92.68" height="22.5504"/>
+			<rect x="0" y="509.826" width="92.677" height="22.5504" class="st2"/>
+			<text x="0" y="525.9" class="st3" v:langID="1033"><v:paragraph/><v:tabList/>report<tspan class="st6" v:langID="1049"> </tspan><tspan
+						class="st6" v:langID="1049">tab</tspan></text>		</g>
+		<g id="shape889-33" v:mID="889" v:groupContext="shape" transform="translate(779.804,-369.177)">
+			<title>Лист.889</title>
+			<path d="M163.97 448.48 C165.15 448.48 166.11 449.44 166.11 450.62 L166.11 530.24 C166.11 531.42 165.15 532.38 163.97
+						 532.38 L2.14 532.38 C0.96 532.38 0 531.42 0 530.24 L0 450.62 C0 449.44 0.96 448.48 2.14 448.48 L163.97 448.48
+						 Z" class="st1"/>
+		</g>
+		<g id="shape890-35" v:mID="890" v:groupContext="shape" transform="translate(818.658,-426.794)">
+			<title>Лист.890</title>
+			<desc>email tab</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="44.2007" cy="521.101" width="88.41" height="22.5504"/>
+			<rect x="0" y="509.826" width="88.4014" height="22.5504" class="st2"/>
+			<text x="0" y="525.9" class="st3" v:langID="1049"><v:paragraph/><v:tabList/>email tab</text>		</g>
+		<g id="shape891-38" v:mID="891" v:groupContext="shape" transform="translate(966.382,-369.177)">
+			<title>Лист.891</title>
+			<path d="M168.67 448.48 C169.85 448.48 170.81 449.44 170.81 450.62 L170.81 530.24 C170.81 531.42 169.85 532.38 168.67
+						 532.38 L2.13 532.38 C0.96 532.38 0 531.42 0 530.24 L0 450.62 C0 449.44 0.96 448.48 2.13 448.48 L168.67 448.48
+						 Z" class="st1"/>
+		</g>
+		<g id="shape892-40" v:mID="892" v:groupContext="shape" transform="translate(981.968,-426.794)">
+			<title>Лист.892</title>
+			<desc>messenger tab</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="69.8164" cy="521.101" width="139.64" height="22.5504"/>
+			<rect x="0" y="509.826" width="139.633" height="22.5504" class="st2"/>
+			<text x="0" y="525.9" class="st3" v:langID="1049"><v:paragraph/><v:tabList/>messenger tab</text>		</g>
+		<g id="shape893-43" v:mID="893" v:groupContext="shape" transform="translate(405.979,-382.935)">
+			<title>Лист.893</title>
+			<path d="M137.92 516.6 C137.92 525.31 107.04 532.38 68.96 532.38 C30.88 532.38 0 525.31 0 516.6 C0 507.89 30.88 500.83
+						 68.96 500.83 C107.04 500.83 137.92 507.89 137.92 516.6 Z" class="st1"/>
+		</g>
+		<g id="shape894-45" v:mID="894" v:groupContext="shape" transform="translate(424.338,-392.23)">
+			<title>Лист.894</title>
+			<desc>Send the file</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="84.5639" cy="525.128" width="169.13" height="14.4967"/>
+			<rect x="0" y="517.879" width="169.128" height="14.4967" class="st2"/>
+			<text x="0" y="529.93" class="st5" v:langID="1049"><v:paragraph/><v:tabList/>Send the file</text>		</g>
+		<g id="shape895-48" v:mID="895" v:groupContext="shape" transform="translate(573.428,-379.579)">
+			<title>Лист.895</title>
+			<path d="M171.48 513.25 C171.48 523.81 133.09 532.38 85.74 532.38 C38.39 532.38 0 523.81 0 513.25 C0 502.68 38.39 494.12
+						 85.74 494.12 C133.09 494.12 171.48 502.68 171.48 513.25 Z" class="st1"/>
+		</g>
+		<g id="shape896-50" v:mID="896" v:groupContext="shape" transform="translate(595.582,-392.566)">
+			<title>Лист.896</title>
+			<desc>Add comments</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="63.5851" cy="525.128" width="127.18" height="14.4967"/>
+			<rect x="0" y="517.879" width="127.17" height="14.4967" class="st2"/>
+			<text x="0" y="529.93" class="st5" v:langID="1033"><v:paragraph/><v:tabList/>Add comments</text>		</g>
+		<g id="shape897-53" v:mID="897" v:groupContext="shape" transform="translate(248.596,-375.553)">
+			<title>Лист.897</title>
+			<path d="M127.18 509.22 C127.18 522.01 98.71 532.38 63.59 532.38 C28.47 532.38 0 522.01 0 509.22 C0 496.43 28.47 486.07
+						 63.59 486.07 C98.71 486.07 127.18 496.43 127.18 509.22 Z" class="st1"/>
+		</g>
+		<g id="shape898-55" v:mID="898" v:groupContext="shape" transform="translate(280.153,-383.7)">
+			<title>Лист.898</title>
+			<desc>Rotate, zoom in</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="32.0332" cy="517.171" width="64.07" height="30.4095"/>
+			<rect x="0" y="501.966" width="64.0665" height="30.4095" class="st2"/>
+			<text x="0" y="512.37" class="st5" v:langID="1049"><v:paragraph/><v:tabList/>Rotate, <v:newlineChar/><tspan x="0"
+						dy="1.2em" class="st6">zoom in</tspan></text>		</g>
+		<g id="shape899-59" v:mID="899" v:groupContext="shape" transform="translate(794.525,-382.935)">
+			<title>Лист.899</title>
+			<path d="M137.92 516.6 C137.92 525.31 107.05 532.38 68.96 532.38 C30.88 532.38 0 525.31 0 516.6 C0 507.89 30.88 500.83
+						 68.96 500.83 C107.05 500.83 137.92 507.89 137.92 516.6 Z" class="st1"/>
+		</g>
+		<g id="shape900-61" v:mID="900" v:groupContext="shape" transform="translate(812.398,-392.23)">
+			<title>Лист.900</title>
+			<desc>Send the file</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="51.0866" cy="525.128" width="102.18" height="14.4967"/>
+			<rect x="0" y="517.879" width="102.173" height="14.4967" class="st2"/>
+			<text x="0" y="529.93" class="st5" v:langID="1049"><v:paragraph/><v:tabList/>Send the file</text>		</g>
+		<g id="shape901-64" v:mID="901" v:groupContext="shape" transform="translate(980.476,-382.935)">
+			<title>Лист.901</title>
+			<path d="M137.92 516.6 C137.92 525.31 107.04 532.38 68.96 532.38 C30.88 532.38 0 525.31 0 516.6 C0 507.89 30.88 500.83
+						 68.96 500.83 C107.04 500.83 137.92 507.89 137.92 516.6 Z" class="st1"/>
+		</g>
+		<g id="shape902-66" v:mID="902" v:groupContext="shape" transform="translate(997.019,-392.23)">
+			<title>Лист.902</title>
+			<desc>Send the file</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="52.4171" cy="525.128" width="104.84" height="14.4967"/>
+			<rect x="0" y="517.879" width="104.834" height="14.4967" class="st2"/>
+			<text x="0" y="529.93" class="st5" v:langID="1049"><v:paragraph/><v:tabList/>Send the file</text>		</g>
+		<g id="shape903-69" v:mID="903" v:groupContext="shape" transform="translate(832.489,-131.593)">
+			<title>Лист.903</title>
+			<path d="M256.92 399.83 C258.1 399.83 259.06 400.78 259.06 401.96 L259.06 530.24 C259.06 531.42 258.1 532.38 256.92 532.38
+						 L2.14 532.38 C0.96 532.38 0 531.42 0 530.24 L0 401.96 C0 400.78 0.96 399.83 2.14 399.83 L256.92 399.83 Z"
+					class="st1"/>
+		</g>
+		<g id="shape904-71" v:mID="904" v:groupContext="shape" transform="translate(910.75,-238.203)">
+			<title>Лист.904</title>
+			<desc>Application</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="51.2695" cy="521.101" width="102.54" height="22.5504"/>
+			<rect x="0" y="509.826" width="102.539" height="22.5504" class="st2"/>
+			<text x="0" y="525.9" class="st3" v:langID="1049"><v:paragraph/><v:tabList/>Application</text>		</g>
+		<g id="shape905-74" v:mID="905" v:groupContext="shape" transform="translate(869.737,-152.062)">
+			<title>Лист.905</title>
+			<path d="M201.01 498.99 C201.01 517.43 156.01 532.38 100.5 532.38 C45 532.38 0 517.43 0 498.99 C0 480.55 45 465.6 100.5
+						 465.6 C156.01 465.6 201.01 480.55 201.01 498.99 Z" class="st1"/>
+		</g>
+		<g id="shape906-76" v:mID="906" v:groupContext="shape" transform="translate(884.741,-172.2)">
+			<title>Лист.906</title>
+			<desc>Send a file by email or message</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="85.5" cy="514.376" width="171" height="36"/>
+			<rect x="0" y="496.376" width="171" height="36" class="st2"/>
+			<text x="42.82" y="509.58" class="st5" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Send <tspan
+						class="st6" v:langID="1033">a</tspan> file <v:newlineChar/><tspan x="1.89" dy="1.2em" class="st6">by email or message</tspan></text>		</g>
+		<g id="shape907-81" v:mID="907" v:groupContext="shape" transform="translate(41.7164,-89.814)">
+			<title>Лист.907</title>
+			<path d="M27.52 518.62 C27.52 526.21 21.36 532.38 13.76 532.38 C6.16 532.38 0 526.21 0 518.62 C0 511.02 6.16 504.86 13.76
+						 504.86 C21.36 504.86 27.52 511.02 27.52 518.62 Z" class="st7"/>
+		</g>
+		<g id="shape908-83" v:mID="908" v:groupContext="shape" transform="translate(32.3204,-65.9885)">
+			<title>Лист.908</title>
+			<path d="M23.15 511.95 C26.58 511.95 29.16 511.95 32.59 508.55 C39.45 508.55 46.31 515.36 46.31 522.16 L46.31 525.57
+						 C46.31 528.97 42.88 532.38 39.45 532.38 L6.86 532.38 C3.43 532.38 0 528.97 0 525.57 L0 522.16 C0 515.36
+						 6.86 508.55 13.72 508.55 C17.15 511.95 19.72 511.95 23.15 511.95 Z" class="st7"/>
+		</g>
+		<g id="shape909-85" v:mID="909" v:groupContext="shape" transform="translate(18.75,-20.9518)">
+			<title>Лист.909</title>
+			<desc>Designer Student</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="36.725" cy="516.128" width="73.45" height="32.4967"/>
+			<rect x="0" y="499.879" width="73.4499" height="32.4967" class="st2"/>
+			<text x="1.21" y="511.33" class="st5" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Designer<v:newlineChar/><tspan
+						x="5.08" dy="1.2em" class="st6">Student</tspan></text>		</g>
+		<g id="shape910-89" v:mID="910" v:groupContext="shape" transform="translate(1288.03,-89.814)">
+			<title>Лист.910</title>
+			<path d="M27.52 518.62 C27.52 526.21 21.36 532.38 13.76 532.38 C6.16 532.38 0 526.21 0 518.62 C0 511.02 6.16 504.86 13.76
+						 504.86 C21.36 504.86 27.52 511.02 27.52 518.62 Z" class="st7"/>
+		</g>
+		<g id="shape911-91" v:mID="911" v:groupContext="shape" transform="translate(1278.63,-65.9885)">
+			<title>Лист.911</title>
+			<path d="M23.15 511.95 C26.58 511.95 29.16 511.95 32.59 508.55 C39.45 508.55 46.31 515.36 46.31 522.16 L46.31 525.57
+						 C46.31 528.97 42.88 532.38 39.45 532.38 L6.86 532.38 C3.43 532.38 0 528.97 0 525.57 L0 522.16 C0 515.36
+						 6.86 508.55 13.72 508.55 C17.15 511.95 19.72 511.95 23.15 511.95 Z" class="st7"/>
+		</g>
+		<g id="shape912-93" v:mID="912" v:groupContext="shape" transform="translate(1261.04,-20.9518)">
+			<title>Лист.912</title>
+			<desc>Customer Teacher</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)"/>
+			<v:textRect cx="40.7458" cy="515.26" width="81.5" height="34.2313"/>
+			<rect x="0" y="498.145" width="81.4915" height="34.2313" class="st2"/>
+			<text x="1.96" y="510.46" class="st5" v:langID="1049"><v:paragraph v:horizAlign="1"/><v:tabList/>Customer<v:newlineChar/><tspan
+						x="8.84" dy="1.2em" class="st6">Teacher</tspan></text>		</g>
+		<g id="shape913-97" v:mID="913" v:groupContext="shape" transform="translate(49.7966,-136.458)">
+			<title>Лист.913</title>
+			<path d="M2.71 532.38 C1.35 480.23 0 428.09 1.97 392.92 C3.94 357.75 1.6 340.41 14.53 321.35 C27.46 302.29 48.77 287.28
+						 79.56 278.55 C110.35 269.82 166.7 265.15 198.97 266.5 L2.71 532.38 Z" class="st8"/>
+			<path d="M2.71 532.38 C1.35 480.23 0 428.09 1.97 392.92 C3.94 357.75 1.6 340.41 14.53 321.35 C27.46 302.29 48.77 287.28
+						 79.56 278.55 C110.35 269.82 166.7 265.15 198.97 266.5" class="st9"/>
+		</g>
+		<g id="shape914-100" v:mID="914" v:groupContext="shape" transform="translate(116.213,-66.324)">
+			<title>Лист.914</title>
+			<path d="M0 531.64 L149.76 532.38 C187.93 531.9 212.71 525.75 231.65 518.38 C250.58 511.02 256.98 500.34 263.37 488.18
+						 C269.76 476.03 272.22 445.46 270.01 445.46 L0 531.64 Z" class="st8"/>
+			<path d="M0 531.64 L149.76 532.38 C187.93 531.9 212.71 525.75 231.65 518.38 C250.58 511.02 256.98 500.34 263.37 488.18
+						 C269.76 476.03 272.22 445.46 270.01 445.46" class="st9"/>
+		</g>
+		<g id="shape915-103" v:mID="915" v:groupContext="shape" transform="translate(115.542,-58.9415)">
+			<title>Лист.915</title>
+			<path d="M0 531.9 L316.69 532.38 C385.79 530.73 390.03 529.55 414.58 522.05 C439.14 514.55 449.92 508.55 464.01 487.38
+						 C468.18 481.23 471.38 460.09 471.81 443.79 L0 531.9 Z" class="st8"/>
+			<path d="M0 531.9 L316.69 532.38 C385.79 530.73 390.03 529.55 414.58 522.05 C439.14 514.55 449.92 508.55 464.01 487.38
+						 C468.18 481.23 471.38 460.09 471.81 443.79" class="st9"/>
+		</g>
+		<g id="shape916-106" v:mID="916" v:groupContext="shape" transform="translate(58.4204,-135.116)">
+			<title>Лист.916</title>
+			<path d="M1.09 532.38 C1.91 467.14 0 460.22 1.09 426.24 C2.19 392.28 42.49 372.74 79.73 360.08 C116.97 347.41 180.1 352
+						 224.55 350.25 C269 348.51 317.79 351.29 346.43 349.6 C375.07 347.91 384.95 344.74 396.4 340.13 C407.86 335.51
+						 410.75 332.29 415.14 321.91 C417.65 311.54 417.89 303.57 417.86 285.4 L1.09 532.38 Z" class="st8"/>
+			<path d="M1.09 532.38 C1.91 467.14 0 460.22 1.09 426.24 C2.19 392.28 42.49 372.74 79.73 360.08 C116.97 347.41 180.1 352
+						 224.55 350.25 C269 348.51 317.79 351.29 346.43 349.6 C375.07 347.91 384.95 344.74 396.4 340.13 C407.86 335.51
+						 410.75 332.29 415.14 321.91 C417.65 311.54 417.89 303.57 417.86 285.4" class="st9"/>
+		</g>
+		<g id="shape917-109" v:mID="917" v:groupContext="shape" transform="translate(1309.97,-133.103) scale(-1,1)">
+			<title>Лист.917</title>
+			<path d="M8.39 532.38 C9.26 468.24 0 437.3 13.92 408.35 C27.85 379.4 53.28 368.57 91.92 358.68 C130.57 348.79 198.55
+						 350.74 245.77 349.02 C293 347.3 344.83 350.29 375.26 348.37 C405.68 346.46 416.33 342.52 428.34 337.52 C440.36
+						 332.53 442.66 327.97 447.33 320.23 C450 310.04 450.56 303.44 451.14 283.72 L8.39 532.38 Z" class="st8"/>
+			<path d="M8.39 532.38 C9.26 468.24 0 437.3 13.92 408.35 C27.85 379.4 53.28 368.57 91.92 358.68 C130.57 348.79 198.55
+						 350.74 245.77 349.02 C293 347.3 344.83 350.29 375.26 348.37 C405.68 346.46 416.33 342.52 428.34 337.52 C440.36
+						 332.53 442.66 327.97 447.33 320.23 C450 310.04 450.56 303.44 451.14 283.72" class="st9"/>
+		</g>
+		<g id="shape918-112" v:mID="918" v:groupContext="shape" transform="translate(64.899,-133.103)">
+			<title>Лист.918</title>
+			<path d="M1.72 532.38 C2.54 467.1 0 455.07 0.8 425.88 C1.6 396.68 42.97 376.45 80.37 364.6 C117.76 352.74 180.74 356.51
+						 225.2 354.76 C269.65 353.02 317.42 355.7 347.09 354.11 C376.76 352.52 383.41 350.17 403.22 345.25 C423.03
+						 340.33 448.64 332.48 465.95 324.56 C484.77 316.34 512.08 304.37 545.27 283.72 L1.72 532.38 Z" class="st8"/>
+			<path d="M1.72 532.38 C2.54 467.1 0 455.07 0.8 425.88 C1.6 396.68 42.97 376.45 80.37 364.6 C117.76 352.74 180.74 356.51
+						 225.2 354.76 C269.65 353.02 317.42 355.7 347.09 354.11 C376.76 352.52 383.41 350.17 403.22 345.25 C423.03
+						 340.33 448.64 332.48 465.95 324.56 C484.77 316.34 512.08 304.37 545.27 283.72" class="st9"/>
+		</g>
+		<g id="shape919-115" v:mID="919" v:groupContext="shape" transform="translate(72.6174,-125.385)">
+			<title>Лист.919</title>
+			<path d="M1.72 532.38 C2.54 467.15 0 455.13 0.8 425.95 C1.6 396.78 42.95 376.56 80.34 364.72 C117.73 352.87 180.68 356.64
+						 225.12 354.89 C269.56 353.14 308.54 355.1 346.98 354.24 C385.41 353.37 409.8 354.6 455.76 349.68 C501.72
+						 344.76 605.43 332.62 622.74 324.71 C641.55 316.49 707.4 291.94 740.58 271.3 L1.72 532.38 Z" class="st8"/>
+			<path d="M1.72 532.38 C2.54 467.15 0 455.13 0.8 425.95 C1.6 396.78 42.95 376.56 80.34 364.72 C117.73 352.87 180.68 356.64
+						 225.12 354.89 C269.56 353.14 308.54 355.1 346.98 354.24 C385.41 353.37 409.8 354.6 455.76 349.68 C501.72
+						 344.76 605.43 332.62 622.74 324.71 C641.55 316.49 707.4 291.94 740.58 271.3" class="st9"/>
+		</g>
+		<g id="shape920-118" v:mID="920" v:groupContext="shape" transform="translate(79.6641,-120.015)">
+			<title>Лист.920</title>
+			<path d="M1.72 532.38 C2.54 467.16 0 455.14 0.8 425.97 C1.6 396.8 42.97 376.58 80.37 364.74 C117.77 352.9 180.75 356.66
+						 225.2 354.92 C269.66 353.17 308.65 355.13 347.1 354.26 C385.56 353.4 397.41 353.38 455.93 349.71 C514.45
+						 346.04 680.93 340.17 698.24 332.26 C717.06 324.05 885.23 285.22 918.43 264.59 L1.72 532.38 Z" class="st8"/>
+			<path d="M1.72 532.38 C2.54 467.16 0 455.14 0.8 425.97 C1.6 396.8 42.97 376.58 80.37 364.74 C117.77 352.9 180.75 356.66
+						 225.2 354.92 C269.66 353.17 308.65 355.13 347.1 354.26 C385.56 353.4 397.41 353.38 455.93 349.71 C514.45
+						 346.04 680.93 340.17 698.24 332.26 C717.06 324.05 885.23 285.22 918.43 264.59" class="st9"/>
+		</g>
+		<g id="shape921-121" v:mID="921" v:groupContext="shape" transform="translate(1070.91,-94.512)">
+			<title>Лист.921</title>
+			<path d="M201.34 532.38 C183.72 497.99 159.19 453.93 122.48 444.26 C85.77 434.59 33.66 439.25 0 438.89 L201.34 532.38
+						 Z" class="st8"/>
+			<path d="M201.34 532.38 C183.72 497.99 159.19 453.93 122.48 444.26 C85.77 434.59 33.66 439.25 0 438.89" class="st9"/>
+		</g>
+		<g id="shape922-124" v:mID="922" v:groupContext="shape" transform="translate(1313.13,-135.116) scale(-1,1)">
+			<title>Лист.922</title>
+			<path d="M2.6 532.38 C1.3 480.23 0 428.08 1.89 392.9 C3.79 357.72 1.54 340.38 13.97 321.32 C26.4 302.25 46.88 287.25
+						 76.48 278.51 C106.08 269.78 164.55 264.8 195.57 266.15 L2.6 532.38 Z" class="st8"/>
+			<path d="M2.6 532.38 C1.3 480.23 0 428.08 1.89 392.9 C3.79 357.72 1.54 340.38 13.97 321.32 C26.4 302.25 46.88 287.25
+						 76.48 278.51 C106.08 269.78 164.55 264.8 195.57 266.15" class="st9"/>
+		</g>
+		<g id="shape923-127" v:mID="923" v:groupContext="shape" transform="translate(1299.14,-132.096) scale(-1,1)">
+			<title>Лист.923</title>
+			<path d="M5.36 532.38 C6.23 468.24 0 438.22 14.28 410.81 C28.56 383.4 54.2 376.67 91.04 367.91 C127.88 359.15 192.27
+						 360.22 235.34 358.25 C278.4 356.28 317.77 358.55 349.43 356.07 C381.08 353.59 398.92 349.19 425.27 343.37
+						 C451.62 337.55 488.89 328.14 507.53 321.16 C532.77 314.19 568.5 297.76 595.34 282.04 L5.36 532.38 Z"
+					class="st8"/>
+			<path d="M5.36 532.38 C6.23 468.24 0 438.22 14.28 410.81 C28.56 383.4 54.2 376.67 91.04 367.91 C127.88 359.15 192.27
+						 360.22 235.34 358.25 C278.4 356.28 317.77 358.55 349.43 356.07 C381.08 353.59 398.92 349.19 425.27 343.37
+						 C451.62 337.55 488.89 328.14 507.53 321.16 C532.77 314.19 568.5 297.76 595.34 282.04" class="st9"/>
+		</g>
+		<g id="shape924-130" v:mID="924" v:groupContext="shape" transform="translate(1288.6,-127.062) scale(-1,1)">
+			<title>Лист.924</title>
+			<path d="M0.59 532.38 C0.54 461.51 0 425.62 12.59 405.65 C25.18 385.68 62.52 377.16 100.13 370.15 C137.75 363.13 194.11
+						 364.87 238.31 363.56 C282.51 362.26 317.88 363.27 365.34 362.31 C412.8 361.34 465.84 355.54 510.14 350.39
+						 C554.44 345.24 612.48 338.39 631.12 331.42 C656.37 324.45 775.07 292.05 801.92 276.34 L0.59 532.38 Z"
+					class="st8"/>
+			<path d="M0.59 532.38 C0.54 461.51 0 425.62 12.59 405.65 C25.18 385.68 62.52 377.16 100.13 370.15 C137.75 363.13 194.11
+						 364.87 238.31 363.56 C282.51 362.26 317.88 363.27 365.34 362.31 C412.8 361.34 465.84 355.54 510.14 350.39
+						 C554.44 345.24 612.48 338.39 631.12 331.42 C656.37 324.45 775.07 292.05 801.92 276.34" class="st9"/>
+		</g>
+		<g id="shape925-133" v:mID="925" v:groupContext="shape" transform="translate(1286.35,-123.036) scale(-1,1)">
+			<title>Лист.925</title>
+			<path d="M3.77 532.38 C4.64 468.27 0 446.47 13.92 421.33 C27.85 396.19 49.44 389.77 87.31 381.52 C125.18 373.28 193.94
+						 373.58 241.16 371.87 C288.38 370.15 321.22 372.17 370.64 371.22 C420.06 370.28 482.71 371.47 537.7 366.21
+						 C592.69 360.96 681.96 346.69 700.6 339.72 C725.85 332.75 919.8 294.06 946.65 278.35 L3.77 532.38 Z"
+					class="st8"/>
+			<path d="M3.77 532.38 C4.64 468.27 0 446.47 13.92 421.33 C27.85 396.19 49.44 389.77 87.31 381.52 C125.18 373.28 193.94
+						 373.58 241.16 371.87 C288.38 370.15 321.22 372.17 370.64 371.22 C420.06 370.28 482.71 371.47 537.7 366.21
+						 C592.69 360.96 681.96 346.69 700.6 339.72 C725.85 332.75 919.8 294.06 946.65 278.35" class="st9"/>
+		</g>
+		<g id="shape926-136" v:mID="926" v:groupContext="shape" transform="translate(118.227,-52.5656)">
+			<title>Лист.926</title>
+			<path d="M0 531.3 L669.91 532.38 C802.53 530.77 803.96 521.77 812.34 517.94 C820.72 514.11 848.3 496.21 853.1 481.71
+						 C859.3 465.82 858.14 442.79 859.4 432.04 L0 531.3 Z" class="st8"/>
+			<path d="M0 531.3 L669.91 532.38 C802.53 530.77 803.96 521.77 812.34 517.94 C820.72 514.11 848.3 496.21 853.1 481.71
+						 C859.3 465.82 858.14 442.79 859.4 432.04" class="st9"/>
+		</g>
+	</g>
+</svg>

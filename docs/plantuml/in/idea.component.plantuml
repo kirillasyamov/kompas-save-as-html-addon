@@ -14,7 +14,7 @@ component "Kompas-3D App" as app
 component "save-as-html-addon" as dll
 
 component "pattern.html" as p
-component "geometry data" as gd
+component "geometric data" as gd
 component e as "email 
 handler"
 component n as "note 
@@ -42,7 +42,7 @@ e --> p
 
 interface api as "REST API
 service API"
-component "EmailServer" as email
+component "EmailService" as email
 g -( api
 api -- email
 
