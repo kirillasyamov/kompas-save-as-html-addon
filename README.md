@@ -11,3 +11,9 @@ The system resources are the data that will be used as source code for the gener
 <img src="docs/plantuml/out/idea.class.parttwo.svg">
 
 The positive impact concerns the areas of visualization and communication. These are extremely important elements of project development, which are necessary for the quality of the offer to consumers of objects that companies are interested in developing. It looks like the communication-enhancing addon can be highly valued.
+
+---
+
+In order to simplify the interaction among 3D model developers, the prototype provides the following main features: viewing a model, adding text or graphical comments, sending a report to its developer by e-mail.
+
+<img src="docs/picture.svg">
