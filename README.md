@@ -16,4 +16,4 @@ The positive impact concerns the areas of visualization and communication. These
 
 In order to simplify the interaction among 3D model developers, the prototype provides the following main features: viewing a model, adding text or graphical comments, sending a report to its developer by e-mail.
 
-<img src="docs/picture.svg">
+<img src="docs/picture.gif">
